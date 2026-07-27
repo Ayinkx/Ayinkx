@@ -89,7 +89,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/awal-olayinka-awal" target="_blank">
+<a href="https://www.linkedin.com/in/ayinkx" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
 
