@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0e75b6,100:00f7ff&height=120&section=header&text=Hi+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ayinkx&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=shooting" width="100%"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%92%BB+Backend+Engineer;%F0%9F%94%A5+Flask+%26+REST+API+Enthusiast;%F0%9F%93%9A+Always+Learning+New+Things;%F0%9F%9A%80+Built+with+%E2%9D%A4%EF%B8%8F+and+Python" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%92%BB+Backend+Developer;%F0%9F%94%A5+Flask+%26+REST+API+Enthusiast;%F0%9F%93%9A+Always+Learning+New+Things;%F0%9F%9A%80+Built+with+%E2%9D%A4%EF%B8%8F+and+Python" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -33,11 +33,11 @@
         <ul>
           <li>🔭 <b>Currently:</b> Contributing to Open Source projects</li>
           <li>🌱 <b>Learning:</b> Flask, Flask API, HTML, CSS, Docker & SQL</li>
-          <li>🐍 <b>Identity:</b> Python Developer — backend & automation</li>
+          <li>🐍 <b>Focus:</b> Python, Backend Development, Automation & Open Source</li>
           <li>💡 <b>Passion:</b> Building real-world apps that solve problems</li>
           <li>🤝 <b>Open to:</b> Collaborate on Python & Open Source projects</li>
           <li>📚 <b>Style:</b> Self-taught, learn-by-building approach</li>
-          <li>⚡ <b>Fun fact:</b> I debug with <code>print()</code> and proud of it!</li>
+          <li>⚡ <b>Goal:</b> Build reliable software that solves real-world problems.</li>
         </ul>
       </td>
       <td width="35%" align="center">
