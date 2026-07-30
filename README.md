@@ -130,17 +130,18 @@
 <!-- Stats Cards - Multiple sources for maximum reliability -->
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ayinkx1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats"/>
-  <!-- Top Languages - Two alternatives for reliability -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ayinkx1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&cache_seconds=86400">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayinkx1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&cache_seconds=86400" alt="Top Languages"/>
-  </picture>
-</div>
-<div align="center">
-  <sub>⚡ Primary language: </sub>
-  <img src="https://img.shields.io/badge/dynamic/json?color=00f7ff&label=Top%20Language&query=%24.language&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAyinkx1%2FAyinkx1&style=flat-square&logo=python"/>
-  <sub> • </sub>
-  <img src="https://img.shields.io/github/languages/count/Ayinkx1/Ayinkx1?style=flat-square&color=0e75b6&label=Languages%20Used"/>
+  <!-- Top Languages - Using shields.io badges (100% reliable, no vercel.app) -->
+  <p align="center">
+    <sub>⚡ Languages I work with:</sub>
+    <br/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  </p>
 </div>
 
 <!-- Streak Stats - multiple URL formats to guarantee it works -->
