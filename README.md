@@ -127,10 +127,20 @@
 
 <br/>
 
-<!-- Stats Cards - Trying multiple formats to ensure at least one works -->
+<!-- Stats Cards - Multiple sources for maximum reliability -->
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ayinkx1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayinkx1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&cache_seconds=86400" alt="Top Languages"/>
+  <!-- Top Languages - Two alternatives for reliability -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Ayinkx1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&cache_seconds=86400">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayinkx1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&cache_seconds=86400" alt="Top Languages"/>
+  </picture>
+</div>
+<div align="center">
+  <sub>⚡ Primary language: </sub>
+  <img src="https://img.shields.io/badge/dynamic/json?color=00f7ff&label=Top%20Language&query=%24.language&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAyinkx1%2FAyinkx1&style=flat-square&logo=python"/>
+  <sub> • </sub>
+  <img src="https://img.shields.io/github/languages/count/Ayinkx1/Ayinkx1?style=flat-square&color=0e75b6&label=Languages%20Used"/>
 </div>
 
 <!-- Streak Stats - multiple URL formats to guarantee it works -->
@@ -147,7 +157,11 @@
     GitHub Achievements
     <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="35" height="35"/>
   </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayinkx1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=6&row=2" width="100%" alt="Trophies"/>
+  <!-- Trophies - Two alternative formats for reliability -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Ayinkx1&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6&row=2">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayinkx1&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6&row=2" width="100%" alt="Trophies"/>
+  </picture>
 </div>
 
 <br/>
