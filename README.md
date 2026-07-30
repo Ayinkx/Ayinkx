@@ -105,7 +105,7 @@
       <td><img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx1&color=0e75b6&style=for-the-badge&logo=github"/></td>
       <td><img src="https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.starred_repositories&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx1&color=00f7ff&style=for-the-badge&logo=github"/></td>
       <td><img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx1&color=8A2BE2&style=for-the-badge&logo=github"/></td>
-      <td><img src="https://img.shields.io/github/last-commit/Ayinkx1/Ayinkx1?style=for-the-badge&logo=github&color=FF69B4&label=Updated"/></td>
+      <td><img src="https://img.shields.io/github/last-commit/Ayinkx1/Ayinkx?style=for-the-badge&logo=github&color=FF69B4&label=Updated"/></td>
     </tr>
   </table>
 </div>
@@ -150,17 +150,17 @@
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/⭐_Starred_Repos-00f7ff?style=for-the-badge&logo=github&labelColor=0D1117"/>
         <br/>
-        <img src="https://img.shields.io/github/stars/Ayinkx1?style=social&label=Stars"/>
+        <img src="https://img.shields.io/github/stars/Ayinkx?style=social&label=Stars"/>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/👥_Community-0e75b6?style=for-the-badge&logo=github&labelColor=0D1117"/>
         <br/>
-        <img src="https://img.shields.io/github/followers/Ayinkx1?style=social&label=Followers"/>
+        <img src="https://img.shields.io/github/followers/Ayinkx?style=social&label=Followers"/>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/📦_Repositories-8A2BE2?style=for-the-badge&logo=github&labelColor=0D1117"/>
         <br/>
-        <img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx1&style=social"/>
+        <img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx&style=social"/>
       </td>
     </tr>
   </table>
@@ -177,7 +177,7 @@
     Contribution Graph
     <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" width="35" height="35"/>
   </h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinkx1&theme=tokyo-night&hide_border=true&custom_title=My%20Coding%20Journey&bg_color=0D1117&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&radius=8&days=60" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinkx&theme=tokyo-night&hide_border=true&custom_title=My%20Coding%20Journey&bg_color=0D1117&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&radius=8&days=60" width="95%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -196,7 +196,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/Ayinkx1/Ayinkx1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/Ayinkx/Ayinkx/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 <br/>
@@ -303,7 +303,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/Ayinkx1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&logoWidth=20"/></a>
+  <a href="https://github.com/Ayinkx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&logoWidth=20"/></a>
   <a href="https://www.linkedin.com/in/ayinkx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182&logoWidth=20"/></a>
   <a href="mailto:olayinkaawal00@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BA3A2F&logoWidth=20"/></a>
   <a href="https://www.facebook.com/ayinkxreacts"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0C5DA5&logoWidth=20"/></a>
@@ -313,7 +313,7 @@
   <a href="https://x.com/Ayinkx_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=111111&logoWidth=20"/></a>
   <a href="https://youtube.com/@Ayinkx"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000&logoWidth=20"/></a>
   <br/>
-  <a href="https://wa.me/234XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&logoWidth=20"/></a>
+  <a href="https://wa.me/2348051518765"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&logoWidth=20"/></a>
   <a href="https://discord.gg/ayinkx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED&logoWidth=20"/></a>
   <a href="https://t.me/ayinkx"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1C7EB5&logoWidth=20"/></a>
   <a href="https://www.snapchat.com/add/ayinkx"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black&labelColor=EDE604&logoWidth=20"/></a>
@@ -364,10 +364,10 @@
       <td align="center"><b>📦 Public Repos</b></td>
     </tr>
     <tr>
-      <td><img src="https://komarev.com/ghpvc/?username=Ayinkx1&label=&color=00f7ff&style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/github/followers/Ayinkx1?style=for-the-badge&logo=github&color=0e75b6&label="/></td>
-      <td><img src="https://img.shields.io/github/stars/Ayinkx1?style=for-the-badge&logo=github&color=00f7ff&label="/></td>
-      <td><img src="https://img.shields.io/github/reposize/Ayinkx1/Ayinkx1?style=for-the-badge&logo=github&color=8A2BE2&label="/></td>
+      <td><img src="https://komarev.com/ghpvc/?username=Ayinkx&label=&color=00f7ff&style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/github/followers/Ayinkx?style=for-the-badge&logo=github&color=0e75b6&label="/></td>
+      <td><img src="https://img.shields.io/github/stars/Ayinkx?style=for-the-badge&logo=github&color=00f7ff&label="/></td>
+      <td><img src="https://img.shields.io/github/reposize/Ayinkx/Ayinkx?style=for-the-badge&logo=github&color=8A2BE2&label="/></td>
     </tr>
   </table>
 </div>
@@ -416,7 +416,7 @@
   
   <br/><br/>
   
-  <a href="https://github.com/Ayinkx1?tab=followers">
+  <a href="https://github.com/Ayinkx?tab=followers">
     <img src="https://img.shields.io/badge/Follow%20%40Ayinkx1-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
