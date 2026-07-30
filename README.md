@@ -1,32 +1,15 @@
 <div align="center">
-  <!-- Ocean Wave Layer 1 - Top (Deep Water) -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:020024,40:0e75b6,100:00f7ff&height=200&section=header&animation=shooting&fontColor=ffffff" width="100%"/>
+  <!-- Ocean Wave Header with Embedded Title -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:020024,40:0e75b6,100:00f7ff&height=200&section=header&text=Hi%20%F0%9F%91%8B%F0%9F%8F%BB%20I'm%20Ayinkx&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=shooting" width="100%"/>
   
-  <!-- Floating Animated Particles -->
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="45" width="45"/>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nDGM/giphy.gif" height="45" width="45"/>
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="45" width="45"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="45" width="45"/>
-  <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" height="45" width="45"/>
-  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" height="45" width="45"/>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="45" width="45"/>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nDGM/giphy.gif" height="45" width="45"/>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="45" width="45"/>
-
-  <br/><br/>
-
-  <!-- Main Title - Animated Typing with Unique Font -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&size=55&duration=3500&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ayinkx" alt="Typing Title"/>
-
-  <br/><br/>
-
-  <!-- Underwater Floating Elements -->
-  <img src="https://media.giphy.com/media/26BGI1U05VWBU54WY/giphy.gif" height="35"/>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="35"/>
-  <img src="https://media.giphy.com/media/3o7TKtnu0q3Ck51O2c/giphy.gif" height="35"/>
-  <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" height="35"/>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="35"/>
-  <img src="https://media.giphy.com/media/26BGI1U05VWBU54WY/giphy.gif" height="35"/>
+  <!-- Floating Particles -->
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="35" width="35"/>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="35" width="35"/>
+  <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" height="35" width="35"/>
+  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" height="35" width="35"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="35" width="35"/>
+  <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" height="35" width="35"/>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="35" width="35"/>
 
   <br/><br/>
 
@@ -35,8 +18,8 @@
 
   <br/>
 
-  <!-- Ocean Wave Layer 2 - Bottom (Shallow Water) -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00f7ff,60:0e75b6,100:020024&height=150&section=footer&animation=shooting&fontColor=ffffff" width="100%"/>
+  <!-- Bottom Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00f7ff,60:0e75b6,100:020024&height=100&section=footer&animation=shooting" width="100%"/>
 </div>
 
 <br/>
