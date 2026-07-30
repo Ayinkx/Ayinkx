@@ -1,25 +1,7 @@
 <div align="center">
-  <!-- Ocean Wave Header with Embedded Title -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:020024,40:0e75b6,100:00f7ff&height=200&section=header&text=Hi%20%F0%9F%91%8B%F0%9F%8F%BB%20I'm%20Ayinkx&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=shooting" width="100%"/>
-  
-  <!-- Floating Particles -->
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="35" width="35"/>
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="35" width="35"/>
-  <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" height="35" width="35"/>
-  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" height="35" width="35"/>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="35" width="35"/>
-  <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" height="35" width="35"/>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="35" width="35"/>
-
-  <br/><br/>
-
-  <!-- Subtitle Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=20&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%92%BB+Backend+Engineer;%F0%9F%94%A5+Flask+%26+REST+API+Enthusiast;%F0%9F%93%9A+Always+Learning+New+Things;%F0%9F%9A%80+Built+with+%E2%9D%A4%EF%B8%8F+and+Python" alt="Typing SVG"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0e75b6,100:00f7ff&height=120&section=header&text=Hi+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ayinkx&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=shooting" width="100%"/>
   <br/>
-
-  <!-- Bottom Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00f7ff,60:0e75b6,100:020024&height=100&section=footer&animation=shooting" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%92%BB+Backend+Engineer;%F0%9F%94%A5+Flask+%26+REST+API+Enthusiast;%F0%9F%93%9A+Always+Learning+New+Things;%F0%9F%9A%80+Built+with+%E2%9D%A4%EF%B8%8F+and+Python" alt="Typing SVG"/>
 </div>
 
 <br/>
