@@ -279,7 +279,7 @@
       </tr>
     </table>
     <br/>
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" width="60%" alt="Jokes"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1500&color=00F7FF&center=true&vCenter=true&width=750&lines=%F0%9F%90%9B+Why+dark+mode%3F+Light+attracts+bugs!;%F0%9F%94%9F+10+types+of+people%3A+binary+knowers+%26+others;%F0%9F%A4%9D+SQL+walks+into+a+bar%3A+%22Can+I+join+you%3F%22;%F0%9F%92%A1+Light+bulb+change%3F+That%27s+a+hardware+issue!;%F0%9F%91%93+Java+devs+wear+glasses%3A+can%27t+C%23;%F0%9F%92%BB+%22It+works+on+my+machine%22+%F0%9F%98%82;%F0%9F%94%8D+Debugging%3A+detective+AND+murderer;%F0%9F%AA%B2+99+bugs+%E2%86%92+patch+%E2%86%92+117+bugs;10%25+writing+code%2C+90%25+fixing+why+it+broke;%F0%9F%9A%80+I+test+in+production.+Change+my+mind" width="75%" alt="Animated Jokes"/>
   </div>
 </details>
 
