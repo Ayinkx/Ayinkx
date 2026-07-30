@@ -157,11 +157,29 @@
     GitHub Achievements
     <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="35" height="35"/>
   </h2>
-  <!-- Trophies - Two alternative formats for reliability -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Ayinkx1&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6&row=2">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayinkx1&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6&row=2" width="100%" alt="Trophies"/>
-  </picture>
+  <!-- Achievements using reliable shields.io badges -->
+  <br/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/⭐_Starred_Repos-00f7ff?style=for-the-badge&logo=github&labelColor=0D1117"/>
+        <br/>
+        <img src="https://img.shields.io/github/stars/Ayinkx1?style=social&label=Stars"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/👥_Community-0e75b6?style=for-the-badge&logo=github&labelColor=0D1117"/>
+        <br/>
+        <img src="https://img.shields.io/github/followers/Ayinkx1?style=social&label=Followers"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📦_Repositories-8A2BE2?style=for-the-badge&logo=github&labelColor=0D1117"/>
+        <br/>
+        <img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx1&style=social"/>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://img.shields.io/badge/🏆%20Profile%20Completed%20✅-0D1117?style=for-the-badge&logo=github&color=00f7ff&labelColor=0D1117"/>
 </div>
 
 <br/>
