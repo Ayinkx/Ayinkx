@@ -102,10 +102,10 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx1&color=0e75b6&style=for-the-badge&logo=github"/></td>
-      <td><img src="https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.starred_repositories&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx1&color=00f7ff&style=for-the-badge&logo=github"/></td>
-      <td><img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx1&color=8A2BE2&style=for-the-badge&logo=github"/></td>
-      <td><img src="https://img.shields.io/github/last-commit/Ayinkx1/Ayinkx?style=for-the-badge&logo=github&color=FF69B4&label=Updated"/></td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx&color=0e75b6&style=for-the-badge&logo=github"/></td>
+      <td><img src="https://img.shields.io/github/stars/Ayinkx?style=for-the-badge&logo=github&color=00f7ff&label=Stars"/></td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx&color=8A2BE2&style=for-the-badge&logo=github"/></td>
+      <td><img src="https://img.shields.io/github/last-commit/Ayinkx/Ayinkx?style=for-the-badge&logo=github&color=FF69B4&label=Updated"/></td>
     </tr>
   </table>
 </div>
@@ -114,7 +114,7 @@
 
 <!-- Stats Cards - Multiple sources for maximum reliability -->
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ayinkx1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ayinkx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats"/>
   <!-- Top Languages - Using shields.io badges (100% reliable, no vercel.app) -->
   <p align="center">
     <sub>⚡ Languages I work with:</sub>
@@ -131,7 +131,7 @@
 
 <!-- Streak Stats - multiple URL formats to guarantee it works -->
 <div align="center">
-  <img width="55%" src="https://streak-stats.demolab.com/?user=Ayinkx1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=00F7FF&ring=0E75B6&currStreakLabel=00F7FF" alt="GitHub Streak"/>
+  <img width="55%" src="https://streak-stats.demolab.com/?user=Ayinkx&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=00F7FF&ring=0E75B6&currStreakLabel=00F7FF" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -160,7 +160,7 @@
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/📦_Repositories-8A2BE2?style=for-the-badge&logo=github&labelColor=0D1117"/>
         <br/>
-        <img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx&style=social"/>
+        <img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx&style=social"/>
       </td>
     </tr>
   </table>
@@ -196,7 +196,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/Ayinkx/Ayinkx/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Ayinkx/Ayinkx/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 <br/>
@@ -367,7 +367,7 @@
       <td><img src="https://komarev.com/ghpvc/?username=Ayinkx&label=&color=00f7ff&style=for-the-badge"/></td>
       <td><img src="https://img.shields.io/github/followers/Ayinkx?style=for-the-badge&logo=github&color=0e75b6&label="/></td>
       <td><img src="https://img.shields.io/github/stars/Ayinkx?style=for-the-badge&logo=github&color=00f7ff&label="/></td>
-      <td><img src="https://img.shields.io/github/reposize/Ayinkx/Ayinkx?style=for-the-badge&logo=github&color=8A2BE2&label="/></td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?label=&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyinkx&color=8A2BE2&style=for-the-badge&logo=github"/></td>
     </tr>
   </table>
 </div>
@@ -382,7 +382,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinkx1&theme=tokyo-night&hide_border=true&area=true&custom_title=Recent%20Activity&bg_color=0D1117&line=00F7FF&point=FFFFFF&height=250" width="95%" alt="Recent Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinkx&theme=tokyo-night&hide_border=true&area=true&custom_title=Recent%20Activity&bg_color=0D1117&line=00F7FF&point=FFFFFF&height=250" width="95%" alt="Recent Activity"/>
 </div>
 
 <br/>
@@ -417,7 +417,7 @@
   <br/><br/>
   
   <a href="https://github.com/Ayinkx?tab=followers">
-    <img src="https://img.shields.io/badge/Follow%20%40Ayinkx1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Follow%20%40Ayinkx-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
   <br/><br/>
