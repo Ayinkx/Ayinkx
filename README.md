@@ -280,6 +280,18 @@
 <br/>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayinkx/Ayinkx/output/github-contribution-grid-snake-n3-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayinkx/Ayinkx/output/github-contribution-grid-snake-n3.svg"/>
+    <img src="https://raw.githubusercontent.com/Ayinkx/Ayinkx/output/github-contribution-grid-snake-n3.svg" alt="Snake animation n3"/>
+  </picture>
+</p>
+
+<p align="center"><sub><b>Style n3</b> — Sunset amber</sub></p>
+
+<br/>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%"/>
 </p>
 
