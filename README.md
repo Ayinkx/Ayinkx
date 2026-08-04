@@ -114,7 +114,7 @@
 
 <!-- Stats Cards - Multiple sources for maximum reliability -->
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.shion.dev/api?username=Ayinkx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="45%" src="./profile/stats.svg" alt="GitHub Stats"/>
   <!-- Top Languages - Using shields.io badges (100% reliable, no vercel.app) -->
   <p align="center">
     <sub>⚡ Languages I work with:</sub>
@@ -165,7 +165,7 @@
     </tr>
   </table>
   <br/>
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Ayinkx&theme=tokyonight&no-bg=true&no-frame=true&margin-w=5&margin-h=5&column=8" alt="GitHub Trophies"/>
+  <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
   <br/>
   <img src="https://img.shields.io/badge/🏆%20Profile%20Completed%20✅-0D1117?style=for-the-badge&logo=github&color=00f7ff&labelColor=0D1117"/>
 </div>
