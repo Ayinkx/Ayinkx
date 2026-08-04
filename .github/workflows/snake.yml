@@ -17,12 +17,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23008BA8&color_dots=%23EBEDF0,%23BFE6F0,%237FD8EF,%233FC6E5,%2300C6FF&palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300F7FF&color_dots=%230D1117,%230E4B77,%230E5A8F,%230E8FC7,%2300F7FF&palette=github-dark
-            dist/github-contribution-grid-snake-n2.svg?color_snake=%23602C8F&color_dots=%23EBEDF0,%23D9C8F0,%23B79DE8,%23946AD4,%238B5CF6&palette=github-light
-            dist/github-contribution-grid-snake-n2-dark.svg?color_snake=%238B5CF6&color_dots=%230D1117,%23211A3A,%2341287A,%235B3FB0,%238B5CF6&palette=github-dark
-            dist/github-contribution-grid-snake-n3.svg?color_snake=%23B45309&color_dots=%23EBEDF0,%23FCE8C8,%23F5CF93,%23E8A94E,%23D97706&palette=github-light
-            dist/github-contribution-grid-snake-n3-dark.svg?color_snake=%23F97316&color_dots=%230D1117,%234A2F0E,%238A5A14,%23D97706,%23FBBF24&palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23B45309&color_dots=%23EBEDF0,%23FCE8C8,%23F5CF93,%23E8A94E,%23D97706&palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F97316&color_dots=%230D1117,%234A2F0E,%238A5A14,%23D97706,%23FBBF24&palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
