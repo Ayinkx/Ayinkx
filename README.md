@@ -88,56 +88,14 @@
 <h3 align="center">Core Skills</h3>
 
 <div align="center">
-  <table border="0" width="60%">
-    <tr>
-      <td align="right" width="110"><b>🐍 Python</b></td>
-      <td width="500">
-        <div style="background-color:#161B22;border-radius:5px;height:18px;width:100%">
-          <div style="background-color:#3776AB;height:18px;width:90%;border-radius:5px"></div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="right" width="110"><b>🔥 Flask & REST</b></td>
-      <td width="500">
-        <div style="background-color:#161B22;border-radius:5px;height:18px;width:100%">
-          <div style="background-color:#00F7FF;height:18px;width:85%;border-radius:5px"></div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="right" width="110"><b>🎨 HTML & CSS</b></td>
-      <td width="500">
-        <div style="background-color:#161B22;border-radius:5px;height:18px;width:100%">
-          <div style="background-color:#E34F26;height:18px;width:75%;border-radius:5px"></div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="right" width="110"><b>🐳 Docker</b></td>
-      <td width="500">
-        <div style="background-color:#161B22;border-radius:5px;height:18px;width:100%">
-          <div style="background-color:#2496ED;height:18px;width:55%;border-radius:5px"></div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="right" width="110"><b>🗄️ SQL</b></td>
-      <td width="500">
-        <div style="background-color:#161B22;border-radius:5px;height:18px;width:100%">
-          <div style="background-color:#4479A1;height:18px;width:60%;border-radius:5px"></div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="right" width="110"><b>📝 Markdown</b></td>
-      <td width="500">
-        <div style="background-color:#161B22;border-radius:5px;height:18px;width:100%">
-          <div style="background-color:#6e7681;height:18px;width:95%;border-radius:5px"></div>
-        </div>
-      </td>
-    </tr>
-  </table>
+<pre>
+Python        ██████████████████░░░  90%
+Flask & REST  █████████████████░░░░  85%
+HTML & CSS    ███████████████░░░░░░  75%
+SQL           ████████████░░░░░░░░░  60%
+Docker        ███████████░░░░░░░░░░  55%
+Markdown      ███████████████████░░  95%
+</pre>
 </div>
 
 <br/>
