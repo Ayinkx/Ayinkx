@@ -264,6 +264,7 @@ Markdown      ███████████████████░░  9
         <img src="https://img.shields.io/badge/Give%20It%20All-0e75b6?style=for-the-badge&labelColor=0D1117"/>
         <img src="https://img.shields.io/badge/Suffering-00f7ff?style=for-the-badge&labelColor=0D1117"/>
         <br/><br/>
+        <a href="https://open.spotify.com/artist/0O1tHOJHa5rUDSIEovYDWK"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=14833B"/></a>
         <a href="https://youtube.com/@Ayinkx"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000"/></a>
         <a href="https://soundcloud.com/user-331182492"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white&labelColor=CC4400"/></a>
         <br/>
