@@ -26,25 +26,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Africa/Lagos
-
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: profile/activity.svg
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 6
-          plugin_activity_days: 14
-          config_timezone: Africa/Lagos
-
-      - name: Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: profile/achievements.svg
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: C
-          config_timezone: Africa/Lagos

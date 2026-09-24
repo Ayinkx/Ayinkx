@@ -150,8 +150,6 @@ Markdown      ███████████████████░░  9
     <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="35" height="35"/>
   </h2>
   <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
-  <br/><br/>
-  <img src="./profile/achievements.svg" alt="GitHub Achievements"/>
 </div>
 
 <br/>
@@ -168,6 +166,18 @@ Markdown      ███████████████████░░  9
     <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" width="35" height="35"/>
   </h2>
   <img src="./profile/calendar.svg" width="90%" alt="Contribution Calendar"/>
+</div>
+
+<br/>
+
+<!-- Activity Graph (the classic one) -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" width="35" height="35"/>
+    Activity Graph
+    <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" width="35" height="35"/>
+  </h2>
+  <img src="./profile/activity-graph.svg" width="95%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -404,7 +414,7 @@ Markdown      ███████████████████░░  9
 </h2>
 
 <div align="center">
-  <img src="./profile/activity.svg" width="90%" alt="Recent Activity"/>
+  <img src="./profile/recent-activity.svg" width="90%" alt="Recent Activity"/>
 </div>
 
 <br/>

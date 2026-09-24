@@ -61,6 +61,22 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: tokyonight
 
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: bg_color=0D1117&color=FFFFFF&title_color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true&radius=8&days=90&custom_title=My%20Coding%20Journey
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate recent activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: bg_color=0D1117&color=FFFFFF&title_color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true&radius=8&days=30&custom_title=Recent%20Activity&height=250
+          output_path: profile/recent-activity.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and push cards
         run: |
           git config user.name "github-actions[bot]"
