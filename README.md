@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0e75b6,100:00f7ff&height=120&section=header&text=Hi+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ayinkx&fontSize=34&fontColor=ffffff&fontAlignY=54&animation=shooting" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=3000&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%92%BB+Backend+Developer;%F0%9F%94%A5+Flask+%26+REST+API+Enthusiast;%F0%9F%93%9A+Always+Learning+New+Things;%F0%9F%9A%80+Built+with+%E2%9D%A4%EF%B8%8F+and+Python" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=3000&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%92%BB+Backend+Developer;%F0%9F%8E%A7+Musician+%26+Producer;%E2%9A%A1+Content+Creator;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%94%A5+Flask+%26+REST+API+Enthusiast" alt="Typing SVG"/>
 
   <br/>
 
@@ -36,9 +36,11 @@
     <tr>
       <td width="65%" valign="top">
         <ul>
+          <li>👤 <b>Name:</b> Lawal Olayinka Awal — <i>aka Ayinkx</i></li>
           <li>🔭 <b>Currently:</b> Contributing to Open Source projects</li>
           <li>🌱 <b>Learning:</b> Flask, Flask API, HTML, CSS, Docker &amp; SQL</li>
           <li>🐍 <b>Focus:</b> Python, Backend Development, Automation &amp; Open Source</li>
+          <li>🎧 <b>Also:</b> Nigerian Musician, Producer &amp; Content Creator (<a href="https://www.instagram.com/ayinkxreacts">@ayinkxreacts</a>)</li>
           <li>💡 <b>Passion:</b> Building real-world apps that solve problems</li>
           <li>🤝 <b>Open to:</b> Collaborate on Python &amp; Open Source projects</li>
           <li>📚 <b>Style:</b> Self-taught, learn-by-building approach</li>
@@ -236,6 +238,60 @@ Markdown      ███████████████████░░  9
     </tr>
   </table>
 </div>
+
+<br/>
+
+<!-- Music & Content -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35"/>
+  Music &amp; Content
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35"/>
+</h2>
+
+<p align="center">
+  Beyond code, I create as <b>Ayinkx</b> — a Nigerian <b>musician, producer</b> and <b>content creator</b>.<br/>
+  Love songs, chill vibes and real stories. 🎧⚡
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎧 Music</h3>
+        <sub>Love songs · chill vibes · real stories</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/No%20Hard%20Feelings-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/Give%20It%20All-0e75b6?style=for-the-badge&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/Suffering-00f7ff?style=for-the-badge&labelColor=0D1117"/>
+        <br/><br/>
+        <a href="https://youtube.com/@Ayinkx"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000"/></a>
+        <a href="https://soundcloud.com/user-331182492"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white&labelColor=CC4400"/></a>
+        <br/>
+        <a href="https://www.boomplay.com/artists/115362583"><img src="https://img.shields.io/badge/Boomplay-FF6600?style=for-the-badge&logo=applemusic&logoColor=white&labelColor=CC5200"/></a>
+        <a href="https://audiomack.com/lawal-olayinka-1"><img src="https://img.shields.io/badge/Audiomack-FFA200?style=for-the-badge&logo=audiomack&logoColor=white&labelColor=CC8200"/></a>
+      </td>
+      <td align="center" width="50%">
+        <h3>⚡ Content Creation</h3>
+        <sub>Viral reactions · live streams · community</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/30K%2B%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/5%2B%20Platforms-00f7ff?style=for-the-badge&logo=linktree&logoColor=black&labelColor=0D1117"/>
+        <br/><br/>
+        <a href="https://www.youtube.com/@ayinkxreacts"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000"/></a>
+        <a href="https://www.instagram.com/ayinkxreacts"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=B33551"/></a>
+        <br/>
+        <a href="https://www.tiktok.com/@ayinkxreacts"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=111111"/></a>
+        <a href="https://www.facebook.com/ayinkxofficial"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0C5DA5"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
+</p>
 
 <br/>
 
