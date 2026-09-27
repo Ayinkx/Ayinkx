@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0e75b6,100:00f7ff&height=120&section=header&text=Hi+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ayinkx&fontSize=34&fontColor=ffffff&fontAlignY=54&animation=shooting" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=3000&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%92%BB+Backend+Developer;%F0%9F%8E%A7+Musician+%26+Producer;%E2%9A%A1+Content+Creator;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%94%A5+Flask+%26+REST+API+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=3000&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%92%BB+Backend+Developer;%E2%9A%A1+FastAPI+%26+PostgreSQL;%F0%9F%9A%80+SaaS+Builder;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%8E%A7+Musician+%26+Producer" alt="Typing SVG"/>
 
   <br/>
 
@@ -37,14 +37,16 @@
       <td width="65%" valign="top">
         <ul>
           <li>👤 <b>Name:</b> Lawal Olayinka Awal — <i>aka Ayinkx</i></li>
+          <li>🚀 <b>Building:</b> <a href="https://social-autopilots.vercel.app"><b>Social Autopilot</b></a> — a live multi-platform publishing SaaS</li>
           <li>🔭 <b>Currently:</b> Contributing to Open Source projects</li>
-          <li>🌱 <b>Learning:</b> Flask, Flask API, HTML, CSS, Docker &amp; SQL</li>
-          <li>🐍 <b>Focus:</b> Python, Backend Development, Automation &amp; Open Source</li>
+          <li>🌱 <b>Learning:</b> FastAPI, PostgreSQL, OAuth, Docker &amp; CI/CD</li>
+          <li>🐍 <b>Focus:</b> Python, Backend Development, APIs, Automation &amp; Open Source</li>
           <li>🎧 <b>Also:</b> Nigerian Musician, Producer &amp; Content Creator (<a href="https://www.instagram.com/ayinkxreacts">@ayinkxreacts</a>)</li>
           <li>💡 <b>Passion:</b> Building real-world apps that solve problems</li>
-          <li>🤝 <b>Open to:</b> Collaborate on Python &amp; Open Source projects</li>
+          <li>🤝 <b>Open to:</b> Backend / Python roles &amp; Open Source collaboration</li>
           <li>📚 <b>Style:</b> Self-taught, learn-by-building approach</li>
           <li>⚡ <b>Goal:</b> Build reliable software that solves real-world problems.</li>
+          <li>🔗 <b>Portfolio:</b> <a href="https://ayinkx-portfolio.vercel.app">ayinkx-portfolio.vercel.app</a></li>
         </ul>
       </td>
       <td width="35%" align="center">
@@ -72,7 +74,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,docker,git,github,markdown,vscode,linux,bash,mysql,postman,fastapi&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,sqlite,redis,docker,git,github,githubactions,linux,bash,html,css,js,vscode,postman,vercel,supabase&perline=9" />
 </p>
 
 <!-- Floating Tech Icons -->
@@ -93,12 +95,12 @@
 
 <div align="center">
 <pre>
-Python        ██████████████████░░░  90%
-Flask &amp; REST  █████████████████░░░░  85%
-HTML &amp; CSS    ███████████████░░░░░░  75%
-SQL           ████████████░░░░░░░░░  60%
-Docker        ███████████░░░░░░░░░░  55%
-Markdown      ███████████████████░░  95%
+Python             ██████████████████░░░  90%
+FastAPI &amp; REST     █████████████████░░░░  85%
+Testing (pytest)   ████████████████░░░░░  82%
+SQL / PostgreSQL   ████████████████░░░░░  80%
+HTML &amp; CSS         ███████████████░░░░░░  75%
+Docker &amp; CI/CD     ██████████████░░░░░░░  70%
 </pre>
 </div>
 
@@ -217,6 +219,23 @@ Markdown      ███████████████████░░  9
 <div align="center">
   <table>
     <tr>
+      <td align="center">
+        <h3>🚀 Social Autopilot <img src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=0D1117" alt="live"/></h3>
+        <sub>One post, every platform. Multi-account publishing SaaS for YouTube, TikTok, Facebook, Instagram, Threads, LinkedIn &amp; X — scheduling, recurring posts, team workspaces and 360+ tests.</sub>
+        <br/>
+        <sub><b>FastAPI · PostgreSQL · Supabase · OAuth · Vercel</b></sub>
+        <br/><br/>
+        <a href="https://social-autopilots.vercel.app"><img src="https://img.shields.io/badge/Try%20it%20live-0e75b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+        <a href="https://ayinkx-portfolio.vercel.app/work/social-autopilot"><img src="https://img.shields.io/badge/Case%20study-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117"/></a>
+        <a href="https://github.com/AyinkxLab/social-autopilot"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
       <td align="center" width="50%">
         <a href="https://github.com/Ayinkx/flask-rest-api-boilerplate">
           <img src="./profile/pin-flask-api.svg" alt="flask-rest-api-boilerplate"/>
@@ -296,6 +315,51 @@ Markdown      ███████████████████░░  9
 
 <br/>
 
+<!-- What collaborators say -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nDGM/giphy.gif" width="35" height="35"/>
+  What Collaborators Say
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nDGM/giphy.gif" width="35" height="35"/>
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <blockquote>
+          <i>"merged, thanks for the thorough coverage here — the stored-vs-system resolution cases and the
+          outside-provider guard test were exactly the gaps described. nice work matching the existing
+          mocking patterns."</i>
+        </blockquote>
+        <sub><a href="https://github.com/AnchorNet-Org/AnchorNet-Frontend/pull/272#issuecomment-5035011323"><b>Jagadeeshftw</b> · Maintainer, AnchorNet</a></sub>
+      </td>
+      <td width="33%" valign="top">
+        <blockquote>
+          <i>"Clean fix, exactly what the issue asked for… documenting the decision in CONTRIBUTING.md is a
+          nice touch most contributors would have skipped. Thanks for taking this on."</i>
+        </blockquote>
+        <sub><a href="https://github.com/drydocs/meridian/pull/397"><b>collinsezedike</b> · Maintainer, Meridian</a></sub>
+      </td>
+      <td width="33%" valign="top">
+        <blockquote>
+          <i>"Thanks — this is solid work, and the guards around payee verification and wallet status are
+          the right ones."</i>
+        </blockquote>
+        <sub><a href="https://github.com/milepost-labs/milepost/pull/60#issuecomment-5411824158"><b>Gbemi-programmer</b> · Maintainer, Milepost</a></sub>
+      </td>
+    </tr>
+  </table>
+  <sub>Real comments from maintainers on my pull requests — each links to the original on GitHub.</sub>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</p>
+
+<br/>
+
 <!-- Developer Vibe -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35" height="35"/>
@@ -333,16 +397,16 @@ Markdown      ███████████████████░░  9
 <div align="center">
   <table>
     <tr>
-      <td>🚀 Building real-world Python projects</td>
+      <td>🚀 Shipping a live SaaS (Social Autopilot)</td>
       <td>🌍 Contributing to Open Source</td>
     </tr>
     <tr>
-      <td>🧩 Strengthening Backend skills</td>
-      <td>🐳 Learning Docker</td>
+      <td>🧩 Building reliable backends (FastAPI · PostgreSQL)</td>
+      <td>🐳 Docker &amp; CI/CD</td>
     </tr>
     <tr>
-      <td>🌐 Improving Flask &amp; REST APIs</td>
-      <td>📖 Preparing to learn SQL</td>
+      <td>🌐 Designing REST APIs &amp; OAuth integrations</td>
+      <td>🧪 Writing tests that let me refactor</td>
     </tr>
   </table>
 </div>
@@ -395,6 +459,8 @@ Markdown      ███████████████████░░  9
   <a href="https://github.com/Ayinkx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&logoWidth=20"/></a>
   <a href="https://www.linkedin.com/in/ayinkx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182&logoWidth=20"/></a>
   <a href="mailto:olayinkaawal00@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BA3A2F&logoWidth=20"/></a>
+  <a href="https://ayinkx-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&logoWidth=20"/></a>
+  <a href="https://ayinkx-portfolio.vercel.app/resume"><img src="https://img.shields.io/badge/Résumé-8A2BE2?style=for-the-badge&logo=readme&logoColor=white&labelColor=0D1117&logoWidth=20"/></a>
   <a href="https://www.facebook.com/ayinkxreacts"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0C5DA5&logoWidth=20"/></a>
   <br/>
   <a href="https://www.instagram.com/ayinkxreacts"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=B33551&logoWidth=20"/></a>
