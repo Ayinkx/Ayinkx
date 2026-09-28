@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="220" viewBox="0 0 1280 220" role="img" aria-label="Ayinkx — Python &amp; Backend Developer">
+  <defs>
+    <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E75B6"/>
+      <stop offset="0.5" stop-color="#00F7FF"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="hfade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D1117" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0.55"/>
+    </linearGradient>
+    <radialGradient id="hglow" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .t1 { font-family: 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; font-weight: 800; fill: #ffffff; }
+      .t2 { font-family: 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; font-weight: 600; fill: #ffffff; opacity: 0.92; }
+    </style>
+  </defs>
+  <rect width="1280" height="220" fill="url(#hbg)"/>
+  <rect width="1280" height="220" fill="url(#hfade)"/>
+  <circle cx="220" cy="30" r="120" fill="url(#hglow)"/>
+  <circle cx="1080" cy="200" r="150" fill="url(#hglow)"/>
+  <circle cx="90" cy="180" r="4" fill="#ffffff" opacity="0.6"/>
+  <circle cx="1180" cy="40" r="4" fill="#ffffff" opacity="0.6"/>
+  <circle cx="640" cy="18" r="3" fill="#ffffff" opacity="0.5"/>
+  <text x="640" y="108" text-anchor="middle" font-size="60" class="t1">Hi, I&#8217;m Ayinkx</text>
+  <text x="640" y="150" text-anchor="middle" font-size="22" class="t2">Python &amp; Backend Developer · SaaS Builder · Musician + Creator</text>
+</svg>

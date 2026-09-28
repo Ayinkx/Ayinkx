@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0e75b6,100:00f7ff&height=130&section=header&text=Hi+%F0%9F%91%8B%F0%9F%8F%BB+I%27m+Ayinkx&fontSize=36&fontColor=ffffff&fontAlignY=52&desc=Python%20%26%20Backend%20Developer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Musician%20%2B%20Creator&descAlignY=72&descSize=15&animation=shooting" width="100%"/>
+  <img src="./profile/header.svg" width="100%" alt="Ayinkx"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=3000&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%92%BB+Backend+Developer;%E2%9A%A1+FastAPI+%26+PostgreSQL;%F0%9F%9A%80+SaaS+Builder;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%8E%A7+Musician+%26+Producer" alt="Typing SVG"/>
 
@@ -430,7 +430,7 @@ Docker &amp; CI/CD     ██████████████░░░░░
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0e75b6,50:00f7ff,100:0e75b6&height=160&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="./profile/footer.svg" width="100%" alt="Thanks for stopping by!"/>
 
   <br/><br/>
 
