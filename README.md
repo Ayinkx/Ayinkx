@@ -372,7 +372,6 @@ Docker &amp; CI/CD     ██████████████░░░░░
   <a href="https://youtube.com/@Ayinkx"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000&logoWidth=20"/></a>
   <a href="https://www.facebook.com/ayinkxreacts"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0C5DA5&logoWidth=20"/></a>
   <br/>
-  <a href="https://wa.me/2348051518765"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&logoWidth=20"/></a>
   <a href="https://discord.gg/ayinkx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED&logoWidth=20"/></a>
   <a href="https://t.me/ayinkx"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1C7EB5&logoWidth=20"/></a>
   <a href="https://www.snapchat.com/add/ayinkx"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black&labelColor=EDE604&logoWidth=20"/></a>
