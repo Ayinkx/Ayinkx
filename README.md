@@ -458,7 +458,6 @@ Docker &amp; CI/CD     ██████████████░░░░░
 <p align="center">
   <a href="https://github.com/Ayinkx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&logoWidth=20"/></a>
   <a href="https://www.linkedin.com/in/ayinkx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182&logoWidth=20"/></a>
-  <a href="https://www.wikidata.org/wiki/Q136101879"><img src="https://img.shields.io/badge/Wikidata-Q136101879-006699?style=for-the-badge&logo=wikidata&logoColor=white&labelColor=004466&logoWidth=20"/></a>
   <a href="mailto:olayinkaawal00@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BA3A2F&logoWidth=20"/></a>
   <a href="https://ayinkx-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&logoWidth=20"/></a>
   <a href="https://ayinkx-portfolio.vercel.app/resume"><img src="https://img.shields.io/badge/Résumé-8A2BE2?style=for-the-badge&logo=readme&logoColor=white&labelColor=0D1117&logoWidth=20"/></a>
