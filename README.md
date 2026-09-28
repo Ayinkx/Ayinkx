@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0e75b6,100:00f7ff&height=120&section=header&text=Hi+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ayinkx&fontSize=34&fontColor=ffffff&fontAlignY=54&animation=shooting" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0e75b6,100:00f7ff&height=130&section=header&text=Hi+%F0%9F%91%8B%F0%9F%8F%BB+I%27m+Ayinkx&fontSize=36&fontColor=ffffff&fontAlignY=52&desc=Python%20%26%20Backend%20Developer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Musician%20%2B%20Creator&descAlignY=72&descSize=15&animation=shooting" width="100%"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=3000&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%92%BB+Backend+Developer;%E2%9A%A1+FastAPI+%26+PostgreSQL;%F0%9F%9A%80+SaaS+Builder;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%8E%A7+Musician+%26+Producer" alt="Typing SVG"/>
 
@@ -13,23 +13,16 @@
 
 </div>
 
-<!-- Animated-ish Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+  <img src="./profile/divider.svg" width="100%"/>
 </p>
 
-<!-- About Me Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nDGM/giphy.gif" width="35" height="35"/>
-  About Me
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nDGM/giphy.gif" width="35" height="35"/>
-</h2>
+<h2 align="center">🧭 About Me</h2>
+<p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" align="right"/>
 </div>
-
-<br/>
 
 <div align="center">
   <table border="0">
@@ -45,53 +38,30 @@
           <li>💡 <b>Passion:</b> Building real-world apps that solve problems</li>
           <li>🤝 <b>Open to:</b> Backend / Python roles &amp; Open Source collaboration</li>
           <li>📚 <b>Style:</b> Self-taught, learn-by-building approach</li>
-          <li>⚡ <b>Goal:</b> Build reliable software that solves real-world problems.</li>
           <li>🔗 <b>Portfolio:</b> <a href="https://ayinkx-portfolio.vercel.app">ayinkx-portfolio.vercel.app</a></li>
         </ul>
       </td>
       <td width="35%" align="center">
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="coding"/>
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="190" alt="coding"/>
         <br/><br/>
-        <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/>
+        <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="26"/>
         <b>Code. Build. Repeat.</b>
-        <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/>
+        <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="26"/>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+  <img src="./profile/divider.svg" width="100%"/>
 </p>
 
-<!-- Tech Stack -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jnDKffgCfGYivo6LSq/giphy.gif" width="35" height="35"/>
-  Tech Stack &amp; Tools
-  <img src="https://media.giphy.com/media/jnDKffgCfGYivo6LSq/giphy.gif" width="35" height="35"/>
-</h2>
+<h2 align="center">🧰 Tech Stack &amp; Tools</h2>
+<p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,sqlite,redis,docker,git,github,githubactions,linux,bash,html,css,js,vscode,postman,vercel,supabase&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,sqlite,redis,docker,git,github,githubactions,linux,bash,html,css,js,vscode,postman,vercel,supabase&perline=10" />
 </p>
-
-<!-- Floating Tech Icons -->
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/XAxylRMCdpBEWU0b6m/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/IdyAQJVN2FPP8aD0Z7/giphy.gif" width="50"/>
-</p>
-
-<br/>
-
-<!-- Core Skills -->
-<h3 align="center">Core Skills</h3>
 
 <div align="center">
 <pre>
@@ -104,20 +74,23 @@ Docker &amp; CI/CD     ██████████████░░░░░
 </pre>
 </div>
 
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="46"/>
+  <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="46"/>
+  <img src="https://media.giphy.com/media/XAxylRMCdpBEWU0b6m/giphy.gif" width="46"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="46"/>
+  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="46"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="46"/>
+  <img src="https://media.giphy.com/media/IdyAQJVN2FPP8aD0Z7/giphy.gif" width="46"/>
 </p>
 
-<!-- GitHub Stats -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35" height="35"/>
-  GitHub Stats
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35" height="35"/>
-</h2>
+<p align="center">
+  <img src="./profile/divider.svg" width="100%"/>
+</p>
 
-<!-- Quick stats - shields.io is always reliable -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
+
 <div align="center">
   <table>
     <tr>
@@ -129,92 +102,49 @@ Docker &amp; CI/CD     ██████████████░░░░░
   </table>
 </div>
 
-<br/>
-
-<!-- Local cards generated by GitHub Actions (always online) -->
 <div align="center">
-  <img width="45%" src="./profile/stats.svg" alt="GitHub Stats"/>
-  <img width="45%" src="./profile/top-langs.svg" alt="Top Languages"/>
+  <img width="49%" src="./profile/stats.svg" alt="GitHub Stats"/>
+  <img width="49%" src="./profile/top-langs.svg" alt="Top Languages"/>
 </div>
 
-<br/>
-
-<!-- Streak Stats -->
 <div align="center">
-  <img width="55%" src="./profile/streak.svg" alt="GitHub Streak"/>
+  <img width="60%" src="./profile/streak.svg" alt="GitHub Streak"/>
 </div>
 
-<br/>
-
-<!-- Achievements -->
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="35" height="35"/>
-    GitHub Achievements
-    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="35" height="35"/>
-  </h2>
+  <h3 align="center">🏆 Achievements</h3>
   <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
 </div>
 
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+  <img src="./profile/divider.svg" width="100%"/>
 </p>
 
-<!-- Contribution Graph -->
+<h2 align="center">🌌 Contribution Activity</h2>
+<p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
+
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" width="35" height="35"/>
-    Contribution Graph
-    <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" width="35" height="35"/>
-  </h2>
-  <img src="./profile/calendar.svg" width="90%" alt="Contribution Calendar"/>
+  <img src="./profile/calendar.svg" width="92%" alt="Contribution Calendar"/>
 </div>
 
-<br/>
-
-<!-- Activity Graph (the classic one) -->
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" width="35" height="35"/>
-    Activity Graph
-    <img src="https://media.giphy.com/media/l0HlTy9jMh0uFdC9a/giphy.gif" width="35" height="35"/>
-  </h2>
-  <img src="./profile/activity-graph.svg" width="95%" alt="Activity Graph"/>
+  <img src="./profile/activity-graph.svg" width="96%" alt="Activity Graph"/>
 </div>
-
-<br/>
-
-<!-- Contribution Snake -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnu0q3Ck51O2c/giphy.gif" width="35" height="35"/>
-  Contribution Snake
-  <img src="https://media.giphy.com/media/3o7TKtnu0q3Ck51O2c/giphy.gif" width="35" height="35"/>
-</h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayinkx/Ayinkx/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayinkx/Ayinkx/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Ayinkx/Ayinkx/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+    <img src="https://raw.githubusercontent.com/Ayinkx/Ayinkx/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
   </picture>
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+  <img src="./profile/divider.svg" width="100%"/>
 </p>
 
-<br/>
-
-<!-- Featured Projects -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="35" height="35"/>
-  Featured Projects
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="35" height="35"/>
-</h2>
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
 
 <div align="center">
   <table>
@@ -258,14 +188,12 @@ Docker &amp; CI/CD     ██████████████░░░░░
   </table>
 </div>
 
-<br/>
+<p align="center">
+  <img src="./profile/divider.svg" width="100%"/>
+</p>
 
-<!-- Music & Content -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35"/>
-  Music &amp; Content
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="35"/>
-</h2>
+<h2 align="center">🎧 Music &amp; Content</h2>
+<p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
 
 <p align="center">
   Beyond code, I create as <b>Ayinkx</b> — a Nigerian <b>musician, producer</b> and <b>content creator</b>.<br/>
@@ -307,20 +235,12 @@ Docker &amp; CI/CD     ██████████████░░░░░
   </table>
 </div>
 
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
+  <img src="./profile/divider.svg" width="100%"/>
 </p>
 
-<br/>
-
-<!-- What collaborators say -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nDGM/giphy.gif" width="35" height="35"/>
-  What Collaborators Say
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nDGM/giphy.gif" width="35" height="35"/>
-</h2>
+<h2 align="center">💬 What Collaborators Say</h2>
+<p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
 
 <div align="center">
   <table>
@@ -352,20 +272,12 @@ Docker &amp; CI/CD     ██████████████░░░░░
   <sub>Real comments from maintainers on my pull requests — each links to the original on GitHub.</sub>
 </div>
 
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+  <img src="./profile/divider.svg" width="100%"/>
 </p>
 
-<br/>
-
-<!-- Developer Vibe -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35" height="35"/>
-  Developer Vibe
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35" height="35"/>
-</h2>
+<h2 align="center">🧑‍💻 Developer Vibe</h2>
+<p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" alt="Random Dev Quote"/>
@@ -413,9 +325,8 @@ Docker &amp; CI/CD     ██████████████░░░░░
 
 <br/>
 
-<!-- Developer Philosophy -->
 <details open>
-  <summary><b><h2>📌 Developer Philosophy</h2></b></summary>
+  <summary><b>📌 Developer Philosophy</b></summary>
   <br/>
   <div align="center">
     <table border="0" width="80%">
@@ -440,20 +351,12 @@ Docker &amp; CI/CD     ██████████████░░░░░
   </div>
 </details>
 
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+  <img src="./profile/divider.svg" width="100%"/>
 </p>
 
-<br/>
-
-<!-- Connect With Me -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/KbCfZQmBJwFBQQC4jR/giphy.gif" width="35" height="35"/>
-  Connect With Me
-  <img src="https://media.giphy.com/media/KbCfZQmBJwFBQQC4jR/giphy.gif" width="35" height="35"/>
-</h2>
+<h2 align="center">🤝 Connect With Me</h2>
+<p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
 
 <p align="center">
   <a href="https://github.com/Ayinkx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&logoWidth=20"/></a>
@@ -462,12 +365,12 @@ Docker &amp; CI/CD     ██████████████░░░░░
   <a href="mailto:olayinkaawal00@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BA3A2F&logoWidth=20"/></a>
   <a href="https://ayinkx-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&logoWidth=20"/></a>
   <a href="https://ayinkx-portfolio.vercel.app/resume"><img src="https://img.shields.io/badge/Résumé-8A2BE2?style=for-the-badge&logo=readme&logoColor=white&labelColor=0D1117&logoWidth=20"/></a>
-  <a href="https://www.facebook.com/ayinkxreacts"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0C5DA5&logoWidth=20"/></a>
   <br/>
+  <a href="https://x.com/Ayinkx_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=111111&logoWidth=20"/></a>
   <a href="https://www.instagram.com/ayinkxreacts"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=B33551&logoWidth=20"/></a>
   <a href="https://www.tiktok.com/@ayinkxreacts"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=111111&logoWidth=20"/></a>
-  <a href="https://x.com/Ayinkx_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=111111&logoWidth=20"/></a>
   <a href="https://youtube.com/@Ayinkx"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000&logoWidth=20"/></a>
+  <a href="https://www.facebook.com/ayinkxreacts"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0C5DA5&logoWidth=20"/></a>
   <br/>
   <a href="https://wa.me/2348051518765"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&logoWidth=20"/></a>
   <a href="https://discord.gg/ayinkx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED&logoWidth=20"/></a>
@@ -475,20 +378,12 @@ Docker &amp; CI/CD     ██████████████░░░░░
   <a href="https://www.snapchat.com/add/ayinkx"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black&labelColor=EDE604&logoWidth=20"/></a>
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+  <img src="./profile/divider.svg" width="100%"/>
 </p>
 
-<br/>
-
-<!-- Support Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="35" height="35"/>
-  Support My Work
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="35" height="35"/>
-</h2>
+<h2 align="center">☕ Support My Work</h2>
+<p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/ayinkx">
@@ -502,14 +397,18 @@ Docker &amp; CI/CD     ██████████████░░░░░
   </a>
 </p>
 
-<br/>
+<p align="center">
+  <img src="./profile/divider.svg" width="100%"/>
+</p>
 
-<!-- Live Visitor Counter -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3o7btSt2mc1jQJsLYA/giphy.gif" width="35" height="35"/>
-  Live Visitor Counter
-  <img src="https://media.giphy.com/media/3o7btSt2mc1jQJsLYA/giphy.gif" width="35" height="35"/>
-</h2>
+<h2 align="center">📈 Latest Activity</h2>
+<p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
+
+<div align="center">
+  <img src="./profile/recent-activity.svg" width="92%" alt="Recent Activity"/>
+</div>
+
+<br/>
 
 <div align="center">
   <table>
@@ -530,39 +429,8 @@ Docker &amp; CI/CD     ██████████████░░░░░
 
 <br/>
 
-<!-- Latest Activity -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/26BGI1U05VWBU54WY/giphy.gif" width="35" height="35"/>
-  Latest Activity
-  <img src="https://media.giphy.com/media/26BGI1U05VWBU54WY/giphy.gif" width="35" height="35"/>
-</h2>
-
 <div align="center">
-  <img src="./profile/recent-activity.svg" width="90%" alt="Recent Activity"/>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-</p>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0e75b6,50:00f7ff,100:0e75b6&height=180&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=35&fontColor=ffffff&animation=twinkling" width="100%"/>
-
-  <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30"/>
-  <img src="https://media.giphy.com/media/3o7TKtnu0q3Ck51O2c/giphy.gif" height="30"/>
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" height="30"/>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30"/>
-
-  <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0e75b6,50:00f7ff,100:0e75b6&height=160&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
 
   <br/><br/>
 
