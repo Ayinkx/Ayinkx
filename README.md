@@ -141,7 +141,7 @@ Docker &amp; CI/CD     ██████████████░░░░░
 
 <!-- Streak Stats -->
 <div align="center">
-  <img width="55%" src="https://streak-stats.demolab.com/?user=Ayinkx&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=00F7FF&ring=0E75B6&currStreakLabel=00F7FF" alt="GitHub Streak"/>
+  <img width="55%" src="./profile/streak.svg" alt="GitHub Streak"/>
 </div>
 
 <br/>

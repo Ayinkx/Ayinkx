@@ -77,6 +77,9 @@ jobs:
           output_path: profile/recent-activity.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate streak card
+        run: python3 scripts/streak.py ${{ github.repository_owner }} profile/streak.svg
+
       - name: Commit and push cards
         run: |
           git config user.name "github-actions[bot]"
