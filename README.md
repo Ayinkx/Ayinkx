@@ -192,6 +192,52 @@ Docker &amp; CI/CD     ██████████████░░░░░
   <img src="./profile/divider.svg" width="100%"/>
 </p>
 
+<h2 align="center">🗂️ More Projects</h2>
+<p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
+
+<p align="center">
+  A selection of the products, developer tools and Stellar / Soroban projects I've built.
+</p>
+
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **AI Code Assistant** | Open-source AI coding assistant with read-only Stellar/Soroban tooling — XDR &amp; transaction decoding, RPC/Horizon inspection, contract scaffolds and a plugin system. | Python · AI · Soroban | [Code](https://github.com/AyinkxLab/ai-code-assistant) |
+| **Stellar Contract Platform** | Contract intelligence for Stellar/Soroban — inspection, interface analysis, compatibility checks and deployment verification. | Rust · Soroban | [Code](https://github.com/AyinkxLab/stellar-contract-platform) |
+| **Soroban Security Scanner** | Security analysis for Stellar Soroban contracts and Rust projects, surfacing risky patterns before they ship. | Rust · Security | [Code](https://github.com/StellarFoundry/soroban-security-scanner) |
+| **Stellar DevKit** | Developer tooling for building on Stellar and Soroban — RPC, XDR/SCVal inspection, fixtures, analysis and a CLI. | Python · Soroban | [Code](https://github.com/StellarFoundry/stellar-devkit) |
+| **StellarCred** | Prove credential attributes on Stellar without the credential data ever touching the chain. | Stellar · Soroban · TypeScript | [Code](https://github.com/ToluLabs/StellarCred) · [Live](https://stellar-cred.vercel.app) |
+| **LumenPulse** | A decentralized crypto news platform on Stellar that rewards community contributions on-chain. | Stellar · Next.js · Rust | [Code](https://github.com/Pulsefy/Lumenpulse) · [Live](https://lumenpulse.vercel.app) |
+| **Soter** | Sends aid directly to people in need on Stellar — claim links, private AI needs checks and on-chain impact tracking. | Stellar · Next.js · NestJS | [Code](https://github.com/Pulsefy/Soter) · [Live](https://realsoter.vercel.app) |
+| **QuickEx** | A fast, privacy-focused payment-link platform on Stellar with instant USDC/XLM links and QR codes. | Stellar · TypeScript | [Code](https://github.com/Pulsefy/QiuckEx) · [Live](https://qiuckex.vercel.app) |
+| **CraftNexus** | A global marketplace where artisans sell handcrafted goods and courses, paid instantly via Stellar. | Stellar · Rust | [Code](https://github.com/Hub-of-Evolution/CraftNexus) |
+| **Dojo** | The simplest, fairest and cheapest meme-coin and token launchpad on Stellar. | Stellar · Rust · PostgreSQL | [Code](https://github.com/Pulsefy/Dojo) |
+| **Fluxora** | A continuous payment-streaming primitive for Soroban — lock tokens once, accrue continuously to a recipient. | Soroban · Rust · TypeScript | [Code](https://github.com/Fluxora-Org/Fluxora-Contracts) |
+| **StellaBill** | Prepaid USDC subscription billing on Stellar — recurring payments, subscriber vaults and merchant payouts. | Stellar · Soroban · Go · React | [Code](https://github.com/Stellabill/stellabill-contracts) |
+| **Delego** | AI-powered commerce on Stellar/Soroban — delegate purchases to agents via wallets, escrow and permissioned payments. | Stellar · Soroban · AI | [Code](https://github.com/DelegoLabs/Delego) |
+| **Revora** | Soroban contracts and app for revenue-share offerings and blacklist management. | Soroban · Rust · TypeScript | [Code](https://github.com/RevoraOrg/Revora-Contracts) |
+| **Remitwise** | Soroban contracts and frontend for low-cost, transparent cross-border remittances on Stellar. | Stellar · Soroban · Rust | [Code](https://github.com/Remitwise-Org/Remitwise-Contracts) |
+| **Scouting Platform** | Web3 scouting — SEP-10 wallet login, on-chain talent metrics and IPFS highlight reels. | Stellar · Next.js · Soroban | [Code](https://github.com/scout-off/scout-off-frontend) |
+| **CoralSwap** | An AMM protocol on Stellar — factory, pairs, LP tokens, router and flash loans — with a TS SDK and dApp. | Stellar · Soroban · DeFi | [Code](https://github.com/CoralSwap-Finance/coralswap-core) |
+| **Stellar Market** | A decentralized freelance marketplace on Stellar/Soroban with escrow, reputation staking and disputes. | Stellar · Soroban · TypeScript | [Code](https://github.com/stellarmarket-labs/stellar-market) |
+| **PromptMint** | A Soroban marketplace for selling reusable AI prompt licenses with XLM payments and wallet-verified unlocks. | Stellar · Soroban · AI | [Code](https://github.com/PromptMintLabs/prompt-mint) |
+| **CrowdPay** | Blockchain-powered crowdfunding on Stellar — per-campaign multisig wallets and Soroban milestone payouts. | Stellar · Soroban · JavaScript | [Code](https://github.com/Savitura/crowdpay) · [Live](https://crowdpay-eta.vercel.app) |
+| **Stellar Bazaar** | An open-source x402 facilitator and native discovery layer for Stellar. | Stellar · x402 · TypeScript | [Code](https://github.com/ToluLabs/stellar-bazaar) |
+| **Lucent** | A confidential token implementation on Stellar. | Stellar · Privacy · TypeScript | [Code](https://github.com/ToluLabs/Lucent) · [Live](https://lucent-indol.vercel.app) |
+| **Fluxa** | Cross-border payment infrastructure. | Payments · Go | [Code](https://github.com/Savitura/Fluxa) |
+| **Soroban DevKit** | A release-assurance and operational-verification toolkit for Soroban contracts — inspect, verify, audit and compare upgrades. | Rust · Soroban · CLI | [Code](https://github.com/SaboLabs/soroban-devkit) · [Site](https://soroban-devkit.xyz) |
+| **Soroban Contract Explorer** | A no-code web UI for interacting with any deployed Soroban smart contract. | Stellar · Soroban · TypeScript | [Code](https://github.com/ShippedLabs/Soroban-Contract-Explorer) · [Live](https://soroban-contract-explorer.vercel.app) |
+| **Soroban Upgrade Safeguard** | Compares Soroban WASM builds and detects risky upgrade changes — storage-layout breaks, permission escalations, missing migrations. | Rust · Soroban · Security | [Code](https://github.com/ShippedLabs/soroban-upgrade-safeguard) |
+| **Soroban CrashLab** | Fuzzes Soroban entrypoints, detects edge-case failures and auto-generates reproducible test cases. | Soroban · Fuzzing · TypeScript | [Code](https://github.com/SorobanCrashLab/soroban-crashlab) · [Live](https://soroban-crashlab.vercel.app) |
+| **Stellar Path Finder** | Compare path-payment routes between any two Stellar assets. | Stellar · TypeScript | [Code](https://github.com/ShippedLabs/Stellar-Path-Finder) · [Live](https://stellar-path-finder.vercel.app) |
+| **SaviTools** | A developer workstation for building, testing and debugging Stellar payment apps — no terminal or Rust toolchain required. | Stellar · Dev Tools · TypeScript | [Code](https://github.com/Savitura/Savitools) |
+| **Settle** | Shared family wallets and remittance UX, built for the Monad Metropolis hackathon. | Remittance · Monad · TypeScript | [Code](https://github.com/Savitura/settle) · [Live](https://settle-gamma-seven.vercel.app) |
+| **Voice0** | Voice-controlled DeFi on Solana — a native Android app (Jetpack Compose + Solana Mobile Stack). | Solana · Android · Kotlin | [Code](https://github.com/Savitura/voice0) |
+| **drips-wave-helper** | A dependency-free Python CLI that finds, ranks and drafts applications for Stellar Wave (Drips) open issues. | Python · CLI · Stellar | [Code](https://github.com/Ayinkx/drips-wave-helper) |
+
+<p align="center">
+  <img src="./profile/divider.svg" width="100%"/>
+</p>
+
 <h2 align="center">🎧 Music &amp; Content</h2>
 <p align="center"><img src="./profile/title-bar.svg" width="200"/></p>
 
