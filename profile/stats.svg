@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ayinkx&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 49, Total Commits  : 786, Total PRs: 199, Total Issues: 470, Contributed to (last year): 55</desc>
+        <desc id="descId">Total Stars Earned: 49, Total Commits  : 786, Total PRs: 205, Total Issues: 470, Contributed to (last year): 56</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 81.51020370534418;
+        stroke-dashoffset: 81.19240612912276;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >199</text>
+      >205</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >55</text>
+      >56</text>
     </g>
   </g>
     </svg>
