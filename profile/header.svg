@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="220" viewBox="0 0 1280 220" role="img" aria-label="Ayinkx — Python &amp; Backend Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="220" viewBox="0 0 1280 220" role="img" aria-label="Lawal Olayinka Awal (Ayinkx) — Backend Engineer">
   <defs>
     <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0E75B6"/>
@@ -26,5 +26,5 @@
   <circle cx="1180" cy="40" r="4" fill="#ffffff" opacity="0.6"/>
   <circle cx="640" cy="18" r="3" fill="#ffffff" opacity="0.5"/>
   <text x="640" y="108" text-anchor="middle" font-size="60" class="t1">Hi, I&#8217;m Ayinkx</text>
-  <text x="640" y="150" text-anchor="middle" font-size="22" class="t2">Python &amp; Backend Developer · SaaS Builder · Musician + Creator</text>
+  <text x="640" y="150" text-anchor="middle" font-size="22" class="t2">Backend Engineer · Python · FastAPI · PostgreSQL · Stellar / Soroban</text>
 </svg>
