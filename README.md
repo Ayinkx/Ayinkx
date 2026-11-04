@@ -57,7 +57,7 @@ Selected contributions to projects outside my own repositories:
 ## Contribution Activity
 
 <div align="center">
-  <img width="92%" src="./profile/calendar.svg" alt="Contribution graph"/>
+  <img width="92%" src="./profile/activity-graph.svg" alt="Contribution graph"/>
 </div>
 
 <div align="center">
