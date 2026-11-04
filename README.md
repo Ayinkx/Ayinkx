@@ -54,6 +54,24 @@ Selected contributions to projects outside my own repositories:
   <img width="49%" src="./profile/top-langs.svg" alt="Top languages"/>
 </div>
 
+## Contribution Activity
+
+<div align="center">
+  <img width="92%" src="./profile/calendar.svg" alt="Contribution graph"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="./profile/streak.svg" alt="Contribution streak"/>
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayinkx/Ayinkx/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayinkx/Ayinkx/output/snake.svg"/>
+    <img src="https://raw.githubusercontent.com/Ayinkx/Ayinkx/output/snake.svg" alt="Contribution snake"/>
+  </picture>
+</p>
+
 ## Contact
 
 - **Portfolio** — [ayinkx-portfolio.vercel.app](https://ayinkx-portfolio.vercel.app)
