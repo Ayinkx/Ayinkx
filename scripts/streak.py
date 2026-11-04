@@ -133,7 +133,9 @@ def _icon(kind: str, cx: float, cy: float) -> str:
 
 
 def render(stats: dict) -> str:
-    width, height = 495, 210
+    width, height = 495, 260
+    goal = 100
+    pct = min(stats["current"] / goal, 1.0)
     cols = [
         (82.5, "total", "Total Contributions", str(stats["total"]), ""),
         (247.5, "current", "Current Streak", str(stats["current"]), _label(stats["current_range"])),
@@ -185,6 +187,22 @@ def render(stats: dict) -> str:
             parts.append(
                 f'<text x="{cx}" y="178" text-anchor="middle" class="sub">{sub}</text>'
             )
+    bar_w = width - 80
+    parts.append(
+        f'<text x="40" y="214" class="lbl">100-DAY STREAK GOAL</text>'
+    )
+    parts.append(
+        f'<text x="{width - 40}" y="214" text-anchor="end" class="sub">'
+        f'{stats["current"]} / {goal} days</text>'
+    )
+    parts.append(
+        f'<rect x="40" y="224" width="{bar_w}" height="12" rx="6" fill="#21262D"/>'
+    )
+    if pct > 0:
+        parts.append(
+            f'<rect x="40" y="224" width="{round(bar_w * pct, 1)}" height="12" '
+            f'rx="6" fill="url(#gTop)"/>'
+        )
     parts.append("</svg>")
     return "".join(parts)
 
