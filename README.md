@@ -87,7 +87,7 @@ Selected contributions to projects outside my own repositories:
 </div>
 
 <div align="center">
-  <img width="60%" src="./profile/streak.svg" alt="Contribution streak"/>
+  <img width="60%" src="./profile/streak.svg?v=20261109" alt="Contribution streak"/>
 </div>
 
 <p align="center">
