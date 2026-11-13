@@ -31,7 +31,7 @@
 Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build production APIs and developer tools, with a growing focus on the **Stellar / Soroban** ecosystem.
 
 - 🎯 **Focus Areas:** Backend Architecture, API Design, Developer Experience, Automated Testing
-- 🚀 **Building:** [Social Autopilot](https://social-autopilots.vercel.app) — a live multi-account publishing SaaS for seven platforms, with scheduling, recurring posts, team workspaces and 360+ tests
+- 🚀 **Building:** [Social Autopilot](https://www.socialautopilot.online/) — a live multi-account publishing SaaS for seven platforms, with scheduling, recurring posts, team workspaces and 360+ tests
 - 🧩 **Contributing:** Stellar / Soroban open source — contract inspection, security analysis and upgrade-verification tooling
 - 💼 **Open To:** Backend / Python roles and open-source collaboration
 - 📬 **Contact:** olayinkaawal00@gmail.com
@@ -80,7 +80,7 @@ Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build producti
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
       <p>
-        <a href="https://social-autopilots.vercel.app"><img src="https://img.shields.io/badge/LIVE-DEMO-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+        <a href="https://www.socialautopilot.online/"><img src="https://img.shields.io/badge/LIVE-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live"/></a>
         <a href="https://github.com/AyinkxLab/social-autopilot"><img src="https://img.shields.io/badge/SOURCE-CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
       </p>
     </td>
