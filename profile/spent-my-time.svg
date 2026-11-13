@@ -312,7 +312,7 @@
 <rect class="cell" x="1514" y="316" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.38" style="animation-delay:11.52s"/>
 <rect class="cell" x="1514" y="350" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.38" style="animation-delay:11.52s"/>
 <rect class="cell" x="1514" y="384" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.38" style="animation-delay:11.52s"/>
-<rect class="cell" x="1514" y="418" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.38" style="animation-delay:11.52s"/>
+<rect class="cell" x="1514" y="418" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.6" style="animation-delay:11.52s"/>
 <rect x="1514" y="452" width="28" height="28" rx="6" fill="#17213A"/>
 <rect x="1514" y="486" width="28" height="28" rx="6" fill="#17213A"/>
 </g>

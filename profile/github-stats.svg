@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-labelledby="t d">
-<title id="t">GitHub stats for Ayinkx: 2456 contributions, current streak 26 days, longest streak 26 days.</title>
+<title id="t">GitHub stats for Ayinkx: 2462 contributions, current streak 26 days, longest streak 26 days.</title>
 <desc id="d">Total contributions, current and longest streak, commits by hour, and top languages by repository and by commit.</desc>
 <style>
 text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,system-ui,-apple-system,Roboto,'Helvetica Neue',Arial,sans-serif;font-variant-numeric:tabular-nums}
@@ -8,8 +8,8 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 @keyframes master{0%{opacity:0}3%{opacity:1}93%{opacity:1}97%{opacity:0}100%{opacity:0}}
 @keyframes c1_0{0%,3.571%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}15.714%,100%{transform:translateY(-1209.6px)}}
 @keyframes c1_1{0%,4.428%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.571%,100%{transform:translateY(-1411.2px)}}
-@keyframes c1_2{0%,5.285%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}17.428%,100%{transform:translateY(-1512.0px)}}
-@keyframes c1_3{0%,6.142%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}18.285%,100%{transform:translateY(-1612.8px)}}
+@keyframes c1_2{0%,5.285%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}17.428%,100%{transform:translateY(-1612.8px)}}
+@keyframes c1_3{0%,6.142%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}18.285%,100%{transform:translateY(-1209.6px)}}
 @keyframes ring{0%,4.643%{stroke-dashoffset:389.56;animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.786%,100%{stroke-dashoffset:288.27}}
 @keyframes orbit{0%,17.143%{opacity:0;animation-timing-function:ease}20.0%,100%{opacity:1}}
 @keyframes c6_0{0%,3.571%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}15.714%,100%{transform:translateY(-772.8px)}}
@@ -42,9 +42,9 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 @keyframes bar23{0%,17.292%{transform:scaleY(0);animation-timing-function:cubic-bezier(.2,.8,.2,1)}22.292%,100%{transform:scaleY(1)}}
 @keyframes peak{0%,18.571%{opacity:0;animation-timing-function:ease}22.857%,100%{opacity:1}}
 @keyframes d0_0{0%,17.143%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}20.000%,100%{stroke-dasharray:193.54 427.26}}
-@keyframes d0_1{0%,18.343%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}21.200%,100%{stroke-dasharray:78.18 427.26}}
+@keyframes d0_1{0%,18.343%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}21.200%,100%{stroke-dasharray:73.91 427.26}}
 @keyframes d0_2{0%,19.543%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}22.400%,100%{stroke-dasharray:52.54 427.26}}
-@keyframes d0_3{0%,20.743%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}23.600%,100%{stroke-dasharray:44.00 427.26}}
+@keyframes d0_3{0%,20.743%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}23.600%,100%{stroke-dasharray:48.27 427.26}}
 @keyframes d0_4{0%,21.943%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}24.800%,100%{stroke-dasharray:44.00 427.26}}
 @keyframes d0_c{0%,17.143%{opacity:0;animation-timing-function:ease}20.0%,100%{opacity:1}}
 @keyframes d1_0{0%,17.143%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}20.000%,100%{stroke-dasharray:415.71 427.26}}
@@ -124,7 +124,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="135.5" y="2032.4" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">8</text>
 <text x="135.5" y="2133.2" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">9</text>
 </g>
-<g style="animation:c1_2 14.0s infinite;transform:translateY(-1512.0px)">
+<g style="animation:c1_2 14.0s infinite;transform:translateY(-1612.8px)">
 <text x="180.5" y="218.0" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">0</text>
 <text x="180.5" y="318.8" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">1</text>
 <text x="180.5" y="419.6" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">2</text>
@@ -146,7 +146,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="180.5" y="2032.4" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">8</text>
 <text x="180.5" y="2133.2" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">9</text>
 </g>
-<g style="animation:c1_3 14.0s infinite;transform:translateY(-1612.8px)">
+<g style="animation:c1_3 14.0s infinite;transform:translateY(-1209.6px)">
 <text x="225.5" y="218.0" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">0</text>
 <text x="225.5" y="318.8" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">1</text>
 <text x="225.5" y="419.6" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">2</text>
@@ -302,7 +302,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <rect class="b" x="626.6" y="469.4" width="26" height="2.6" rx="5" fill="url(#bar)" style="animation:bar12 14.0s infinite"/>
 <rect class="b" x="669.5" y="469.4" width="26" height="2.6" rx="5" fill="url(#bar)" style="animation:bar13 14.0s infinite"/>
 <rect class="b" x="712.3" y="461.6" width="26" height="10.4" rx="5" fill="url(#bar)" style="animation:bar14 14.0s infinite"/>
-<rect class="b" x="755.1" y="430.4" width="26" height="41.6" rx="5" fill="url(#bar)" style="animation:bar15 14.0s infinite"/>
+<rect class="b" x="755.1" y="425.2" width="26" height="46.8" rx="5" fill="url(#bar)" style="animation:bar15 14.0s infinite"/>
 <rect class="b" x="798.0" y="440.8" width="26" height="31.2" rx="5" fill="url(#bar)" style="animation:bar16 14.0s infinite"/>
 <rect class="b" x="840.9" y="456.4" width="26" height="15.6" rx="5" fill="url(#bar)" style="animation:bar17 14.0s infinite"/>
 <rect class="b" x="883.7" y="469.4" width="26" height="2.6" rx="5" fill="url(#bar)" style="animation:bar18 14.0s infinite"/>
@@ -328,21 +328,21 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="302" y="616" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">46%</text>
 <circle cx="74" cy="642" r="5" fill="#00F7FF"/>
 <text x="92" y="647" font-size="14" fill="#E8ECF8">HTML</text>
-<text x="302" y="647" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">19%</text>
+<text x="302" y="647" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">18%</text>
 <circle cx="74" cy="673" r="5" fill="#7C3AED"/>
-<text x="92" y="678" font-size="14" fill="#E8ECF8">JavaScript</text>
+<text x="92" y="678" font-size="14" fill="#E8ECF8">Python</text>
 <text x="302" y="678" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">13%</text>
 <circle cx="74" cy="704" r="5" fill="#2DD4BF"/>
-<text x="92" y="709" font-size="14" fill="#E8ECF8">CSS</text>
-<text x="302" y="709" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">11%</text>
+<text x="92" y="709" font-size="14" fill="#E8ECF8">JavaScript</text>
+<text x="302" y="709" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">12%</text>
 <circle cx="74" cy="735" r="5" fill="#FFB84D"/>
-<text x="92" y="740" font-size="14" fill="#E8ECF8">Python</text>
+<text x="92" y="740" font-size="14" fill="#E8ECF8">CSS</text>
 <text x="302" y="740" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">11%</text>
 <circle cx="450" cy="668" r="68" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="26"/>
 <circle cx="450" cy="668" r="68" fill="none" stroke="#0E75B6" stroke-width="26" stroke-dasharray="193.54 427.26" stroke-dashoffset="-1.50" transform="rotate(-90 450 668)" style="animation:d0_0 14.0s infinite"/>
-<circle cx="450" cy="668" r="68" fill="none" stroke="#00F7FF" stroke-width="26" stroke-dasharray="78.18 427.26" stroke-dashoffset="-198.04" transform="rotate(-90 450 668)" style="animation:d0_1 14.0s infinite"/>
-<circle cx="450" cy="668" r="68" fill="none" stroke="#7C3AED" stroke-width="26" stroke-dasharray="52.54 427.26" stroke-dashoffset="-279.22" transform="rotate(-90 450 668)" style="animation:d0_2 14.0s infinite"/>
-<circle cx="450" cy="668" r="68" fill="none" stroke="#2DD4BF" stroke-width="26" stroke-dasharray="44.00 427.26" stroke-dashoffset="-334.76" transform="rotate(-90 450 668)" style="animation:d0_3 14.0s infinite"/>
+<circle cx="450" cy="668" r="68" fill="none" stroke="#00F7FF" stroke-width="26" stroke-dasharray="73.91 427.26" stroke-dashoffset="-198.04" transform="rotate(-90 450 668)" style="animation:d0_1 14.0s infinite"/>
+<circle cx="450" cy="668" r="68" fill="none" stroke="#7C3AED" stroke-width="26" stroke-dasharray="52.54 427.26" stroke-dashoffset="-274.95" transform="rotate(-90 450 668)" style="animation:d0_2 14.0s infinite"/>
+<circle cx="450" cy="668" r="68" fill="none" stroke="#2DD4BF" stroke-width="26" stroke-dasharray="48.27 427.26" stroke-dashoffset="-330.49" transform="rotate(-90 450 668)" style="animation:d0_3 14.0s infinite"/>
 <circle cx="450" cy="668" r="68" fill="none" stroke="#FFB84D" stroke-width="26" stroke-dasharray="44.00 427.26" stroke-dashoffset="-381.76" transform="rotate(-90 450 668)" style="animation:d0_4 14.0s infinite"/>
 <g style="animation:d0_c 14.0s infinite"><text x="450" y="672" text-anchor="middle" font-size="24" font-weight="800" fill="url(#numfill)">46%</text><text x="450" y="690" text-anchor="middle" font-size="12" fill="#8B94B3">TypeScript</text></g>
 <rect x="610" y="526" width="550" height="250" rx="20" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.09"/>
