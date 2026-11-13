@@ -141,7 +141,7 @@ Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build producti
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="92%" src="./profile/github-stats.svg" alt="GitHub stats: contributions, current and longest streak, weekday activity, languages and top repositories"/>
+  <img width="92%" src="./profile/github-stats.svg" alt="GitHub stats: total contributions, current and longest streak, commits by hour, top languages by repository and by commit"/>
 </div>
 
 ---
@@ -149,7 +149,7 @@ Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build producti
 ## 💻 Spent My Time
 
 <div align="center">
-  <img width="96%" src="./profile/spent-my-time.svg" alt="Animated editor cycling through backend code next to a contribution heatmap"/>
+  <img width="96%" src="./profile/spent-my-time.svg" alt="Animated code editor cycling through backend, data and Soroban snippets next to a daily contribution heatmap and project-area split"/>
 </div>
 
 ---
