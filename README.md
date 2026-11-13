@@ -141,18 +141,15 @@ Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build producti
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img width="92%" src="./profile/github-stats.svg" alt="GitHub stats: contributions, current and longest streak, weekday activity, languages and top repositories"/>
+</div>
 
-<table border="0" cellspacing="0" cellpadding="5">
-  <tr>
-    <td align="center" width="50%">
-      <img src="./profile/stats.svg" alt="GitHub stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="./profile/top-langs.svg" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+---
 
+## 💻 Spent My Time
+
+<div align="center">
+  <img width="96%" src="./profile/spent-my-time.svg" alt="Animated editor cycling through backend code next to a contribution heatmap"/>
 </div>
 
 ---
@@ -161,10 +158,6 @@ Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build producti
 
 <div align="center">
   <img width="92%" src="./profile/activity-graph.svg" alt="Contribution graph"/>
-</div>
-
-<div align="center">
-  <img width="60%" src="./profile/streak.svg?v=20261109" alt="Contribution streak"/>
 </div>
 
 <p align="center">

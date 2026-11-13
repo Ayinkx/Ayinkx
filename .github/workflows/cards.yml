@@ -81,6 +81,11 @@ jobs:
       - name: Generate streak card
         run: python3 scripts/streak.py ${{ github.repository_owner }} profile/streak.svg
 
+      - name: Generate animated stats + spent my time cards
+        run: python3 scripts/animated_cards.py ${{ github.repository_owner }} profile
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and push cards
         run: |
           git config user.name "github-actions[bot]"
