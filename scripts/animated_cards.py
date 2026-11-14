@@ -70,8 +70,21 @@ def streaks(days):
         else:
             run = 0
         prev = d
-    cur = run
+    # A streak stays alive until a full day is missed, so an empty today
+    # continues the run ending yesterday (and covers API lag).
+    cur = 0
+    if days:
+        d = date.fromisoformat(max(days))
+        if days[d.isoformat()] == 0:
+            d -= timedelta(days=1)
+        while days.get(d.isoformat(), 0) > 0:
+            cur += 1
+            d -= timedelta(days=1)
     return total, cur, longest
+
+
+_demo = {"2026-11-12": 1, "2026-11-13": 2, "2026-11-14": 0}
+assert streaks(_demo)[1] == 2, "an empty today must keep yesterday's streak alive"
 
 
 def area_of(lang):
@@ -210,12 +223,12 @@ def render_stats(user, data):
     fd = date.fromisoformat(first)
     window = "%s %d, %d to present" % (fd.strftime("%b"), fd.day, fd.year)
     cur_start = None
-    for d in sorted(days):
-        if days[d] > 0:
-            cur_start = cur_start or d
-        else:
-            cur_start = None
-    cur_txt = ("%s to %s" % (short_date(date.fromisoformat(cur_start)), short_date(today))) if cur_start else "No active streak"
+    if cur:
+        last = date.fromisoformat(max(days))
+        if days[last.isoformat()] == 0:
+            last -= timedelta(days=1)
+        cur_start = last - timedelta(days=cur - 1)
+    cur_txt = ("%s to %s" % (short_date(cur_start), short_date(last))) if cur_start else "No active streak"
     css = []
     body = []
     body.append('<text x="40" y="54" font-size="27" font-weight="800" fill="%s" letter-spacing="-0.4">GitHub stats</text>' % TEXT)
