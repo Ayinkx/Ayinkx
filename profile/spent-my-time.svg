@@ -313,7 +313,7 @@
 <rect class="cell" x="1514" y="350" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.38" style="animation-delay:11.52s"/>
 <rect class="cell" x="1514" y="384" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.38" style="animation-delay:11.52s"/>
 <rect class="cell" x="1514" y="418" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.6" style="animation-delay:11.52s"/>
-<rect x="1514" y="452" width="28" height="28" rx="6" fill="#17213A"/>
+<rect class="cell" x="1514" y="452" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.38" style="animation-delay:11.52s"/>
 <rect x="1514" y="486" width="28" height="28" rx="6" fill="#17213A"/>
 </g>
 <g clip-path="url(#heat)"><rect x="618" y="270" width="80" height="240" fill="url(#gScan)"><animate attributeName="x" values="638;1522" dur="12.0s" repeatCount="indefinite"/></rect></g>
