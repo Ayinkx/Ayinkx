@@ -169,7 +169,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="225.5" y="2133.2" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">9</text>
 </g>
 </g>
-<text x="68" y="260" font-size="13" font-weight="600" fill="#00F7FF">Nov 16, 2025 to present</text>
+<text x="68" y="260" font-size="13" font-weight="600" fill="#00F7FF">Nov 23, 2025 to present</text>
 <rect x="360" y="96" width="480" height="190" rx="20" fill="#FFFFFF" fill-opacity="0.04" stroke="url(#tileEdge)" stroke-width="1.4"/>
 <circle cx="472" cy="191" r="62" fill="none" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="10"/>
 <circle cx="472" cy="191" r="62" fill="none" stroke="url(#ring)" stroke-width="10" stroke-linecap="round" stroke-dasharray="389.56" stroke-dashoffset="257.11" transform="rotate(-90 472 191)" filter="url(#glow)" style="animation:ring 14.0s infinite"/>
