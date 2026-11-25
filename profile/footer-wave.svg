@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="110" viewBox="0 0 1280 110" role="img" aria-label="Decorative wave">
+  <defs>
+    <linearGradient id="fwave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E0A46A"/>
+      <stop offset="0.5" stop-color="#B06AB3"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,55 C220,20 390,95 640,60 C860,30 1060,80 1280,45 L1280,110 L0,110 Z" fill="#7C3AED" opacity="0.26"/>
+  <path d="M0,72 C210,40 430,100 660,72 C890,44 1080,92 1280,64 L1280,110 L0,110 Z" fill="#E0A46A" opacity="0.34"/>
+  <path d="M0,88 C240,58 440,110 680,86 C920,62 1100,104 1280,82 L1280,110 L0,110 Z" fill="url(#fwave)"/>
+</svg>

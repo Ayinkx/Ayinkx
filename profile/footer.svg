@@ -1,21 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="170" viewBox="0 0 1280 170" role="img" aria-label="Thanks for stopping by!">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="180" viewBox="0 0 1280 180" role="img" aria-label="Thanks for stopping by!">
   <defs>
     <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0E75B6"/>
-      <stop offset="0.5" stop-color="#00F7FF"/>
-      <stop offset="1" stop-color="#0E75B6"/>
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#1B1330"/>
+      <stop offset="1" stop-color="#2A1638"/>
     </linearGradient>
-    <linearGradient id="ffade" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0D1117" stop-opacity="0.2"/>
-      <stop offset="1" stop-color="#0D1117" stop-opacity="0.6"/>
-    </linearGradient>
-    <style>
-      .f1 { font-family: 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; font-weight: 800; fill: #ffffff; }
-    </style>
+    <radialGradient id="famber" cx="0.15" cy="0.55" r="0.65">
+      <stop stop-color="#E0A46A" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#E0A46A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="fviolet" cx="0.9" cy="0.2" r="0.7">
+      <stop stop-color="#7C3AED" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="fgrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.045"/>
+    </pattern>
   </defs>
-  <rect width="1280" height="170" fill="url(#fbg)"/>
-  <rect width="1280" height="170" fill="url(#ffade)"/>
-  <circle cx="1180" cy="30" r="90" fill="#ffffff" opacity="0.06"/>
-  <circle cx="100" cy="140" r="70" fill="#ffffff" opacity="0.06"/>
-  <text x="640" y="100" text-anchor="middle" font-size="42" class="f1">Thanks for stopping by!</text>
+  <rect width="1280" height="180" fill="url(#fbg)"/>
+  <rect width="1280" height="180" fill="url(#fgrid)"/>
+  <rect width="1280" height="180" fill="url(#famber)"/>
+  <rect width="1280" height="180" fill="url(#fviolet)"/>
+  <circle cx="1080" cy="90" r="122" fill="none" stroke="#E0A46A" stroke-opacity="0.16" stroke-width="1.5"/>
+  <circle cx="1080" cy="90" r="82" fill="none" stroke="#7C3AED" stroke-opacity="0.22" stroke-width="1.5"/>
+  <line x1="80" y1="48" x2="1200" y2="48" stroke="#E0A46A" stroke-opacity="0.28"/>
+  <text x="640" y="98" text-anchor="middle" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#FFFFFF">Thanks for stopping by!</text>
+  <text x="640" y="132" text-anchor="middle" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="3" fill="#C9B8D6">LET'S BUILD SOMETHING</text>
 </svg>

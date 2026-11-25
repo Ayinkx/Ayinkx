@@ -326,5 +326,5 @@ I'm actively looking for **Backend Engineering**, **Python** and **API Developme
   <img src="./profile/footer.svg" width="100%" alt="footer"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0E75B6,50:00F7FF,100:7C3AED&section=footer" width="100%" alt="footer"/>
+  <img src="./profile/footer-wave.svg" width="100%" alt="footer wave"/>
 </p>
