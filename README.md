@@ -8,10 +8,10 @@
   </a>
 </div>
 <div align="center">
-  <img src="./profile/header.svg" width="100%" alt="Lawal Olayinka Awal (Ayinkx) — Backend Engineer"/>
+  <img src="./profile/header.svg" width="100%" alt="Lawal Olayinka Awal (Ayinkx) — Python Backend Developer, Open Source Builder, Musician and Producer"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=Backend+Engineer+%7C+Python+%26+FastAPI;Building+production+APIs+and+developer+tools;Stellar+%2F+Soroban+Open+Source" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=Python+Backend+Developer+%7C+Open+Source+Builder;Building+production+APIs+and+developer+tools;Stellar+%2F+Soroban+open+source;Also+a+musician+and+producer" alt="Typing animation"/>
 </div>
 
 ---
@@ -19,8 +19,8 @@
 
 ## Lawal Olayinka Awal (Ayinkx)
 
-**Backend Engineer**
-**Python · FastAPI · PostgreSQL · Stellar / Soroban**
+**Python Backend Developer · Open Source Builder · Musician & Producer**
+**Python · FastAPI · PostgreSQL · TypeScript · Stellar / Soroban**
 
 <p align="center">
   <img src="./profile/divider.svg" width="100%"/>
@@ -28,13 +28,15 @@
 
 ---
 
-Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build production APIs and developer tools, with a growing focus on the **Stellar / Soroban** ecosystem.
+I'm **Lawal Olayinka Awal**, known online as **Ayinkx**. I build production APIs and developer tools with **Python, FastAPI and PostgreSQL**, with a growing focus on the **Stellar / Soroban** ecosystem. Outside software, I'm a musician, producer and content creator.
 
 - 🎯 **Focus Areas:** Backend Architecture, API Design, Developer Experience, Automated Testing
-- 🚀 **Building:** [Social Autopilot](https://www.socialautopilot.online/) — a live multi-account publishing SaaS for seven platforms, with scheduling, recurring posts, team workspaces and 360+ tests
-- 🧩 **Contributing:** Stellar / Soroban open source — contract inspection, security analysis and upgrade-verification tooling
+- 🚀 **Building:** [Social Autopilot](https://www.socialautopilot.online/) — a live multi-account publishing SaaS for seven platforms, with scheduling, recurring posts, team workspaces and 400+ automated tests
+- 🎮 **Shipped:** [Orbit Runner](https://ayinkxlab.github.io/orbit-runner/) — an installable arcade PWA with orbital movement, slingshot combos, bosses and a daily challenge
+- 🧩 **Contributing:** Stellar / Soroban and Python open source — escrow read views, RTL language support, contract inspection and security tooling
 - 💼 **Open To:** Backend / Python roles and open-source collaboration
 - 📬 **Contact:** olayinkaawal00@gmail.com
+- 🎧 **Music:** [Spotify](https://open.spotify.com/artist/0O1tHOJHa5rUDSIEovYDWK) · [Apple Music](https://music.apple.com/us/artist/ayinkx/1835665778) · [Audiomack](https://audiomack.com/ayinkx)
 
 ---
 <div style="font-family: Arial, sans-serif !important; color: #222; width: 100%;">
@@ -60,19 +62,22 @@ Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build producti
   <a href="https://x.com/Ayinkx_" target="_blank">
     <img src="https://img.shields.io/badge/X-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
+  <a href="https://discord.com/users/1042349214430138418" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-CONNECT-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
   <a href="mailto:olayinkaawal00@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📅 Social Autopilot</h3>
-      <p>A live multi-account publishing SaaS for YouTube, TikTok, Facebook, Instagram, Threads, LinkedIn and X. Includes scheduling, recurring posts, team workspaces and 360+ tests.</p>
+      <p>A live multi-account publishing SaaS for YouTube, TikTok, Facebook, Instagram, Threads, LinkedIn and X. Includes scheduling, recurring posts, team workspaces and 400+ automated tests.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -81,7 +86,7 @@ Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build producti
       </p>
       <p>
         <a href="https://www.socialautopilot.online/"><img src="https://img.shields.io/badge/LIVE-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live"/></a>
-        <a href="https://github.com/AyinkxLab/social-autopilot"><img src="https://img.shields.io/badge/SOURCE-CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
+        <a href="https://ayinkx-portfolio.vercel.app/work/social-autopilot"><img src="https://img.shields.io/badge/CASE%20STUDY-6E40C9?style=for-the-badge&logo=readme&logoColor=white" alt="Case study"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -94,6 +99,35 @@ Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build producti
       </p>
       <p>
         <a href="https://github.com/AyinkxLab/ai-code-assistant"><img src="https://img.shields.io/badge/SOURCE-CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Orbit Runner</h3>
+      <p>Installable arcade PWA with orbital movement, slingshot combos, boss surges, daily challenges and offline play.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://ayinkxlab.github.io/orbit-runner/"><img src="https://img.shields.io/badge/PLAY-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play"/></a>
+        <a href="https://github.com/AyinkxLab/orbit-runner"><img src="https://img.shields.io/badge/SOURCE-CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Portfolio</h3>
+      <p>My personal site and résumé: projects, shipped apps, writing, music and contact details for Lawal Olayinka Awal (Ayinkx).</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://ayinkx-portfolio.vercel.app"><img src="https://img.shields.io/badge/VISIT-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit"/></a>
+        <a href="https://ayinkx-portfolio.vercel.app/resume"><img src="https://img.shields.io/badge/RESUME-6E40C9?style=for-the-badge&logo=readme&logoColor=white" alt="Résumé"/></a>
       </p>
     </td>
   </tr>
@@ -114,6 +148,8 @@ Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build producti
 **Backend & Data**
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -180,6 +216,8 @@ Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build producti
         <li><a href="https://github.com/AnchorNet-Org/AnchorNet-Frontend/pull/272">AnchorNet-Frontend #272</a> — stored-vs-system resolution handling and outside-provider guard tests.</li>
         <li><a href="https://github.com/drydocs/meridian/pull/397">meridian #397</a> — fix plus the decision documented in <code>CONTRIBUTING.md</code>.</li>
         <li><a href="https://github.com/milepost-labs/milepost/pull/60">milepost #60</a> — payee-verification and wallet-status guards.</li>
+        <li><a href="https://github.com/TrusTrove/TrusTrove-contract/pull/1220">TrusTrove escrow #1220</a> — open PR adding lock-ledger and cumulative pool-return read views, with legacy-storage and overflow tests.</li>
+        <li><a href="https://github.com/Deen-Bridge/dnb-ai/pull/891">dnb-ai #891</a> — open PR adding Malay and Urdu RTL support, direction metadata and browser rendering tests.</li>
         <li><a href="https://github.com/DayzLabs/stellar-upgrade-guard">stellar-upgrade-guard</a> — ongoing work on Soroban upgrade safety checks.</li>
       </ul>
     </td>
@@ -190,6 +228,8 @@ Backend engineer focused on **Python, FastAPI and PostgreSQL**. I build producti
         <li><a href="https://github.com/StellarFoundry/soroban-security-scanner">Soroban Security Scanner</a> — deterministic security analysis for Soroban contracts.</li>
         <li><a href="https://github.com/StellarFoundry/stellar-devkit">Stellar DevKit</a> — developer tooling for Stellar and Soroban.</li>
         <li><a href="https://github.com/Ayinkx/drips-wave-helper">drips-wave-helper</a> — Python CLI that finds, ranks and drafts Stellar Wave applications.</li>
+        <li><a href="https://dayzlabs.github.io/borderflow/">BorderFlow</a> — transparent cross-border payout tracking demo built for the Blaaiz Buildathon.</li>
+        <li><a href="https://github.com/Ayinkx/Task-3-Lawal-Olayinka">Shelfmark</a> · <a href="https://github.com/Ayinkx/Task-2-Lawal-Olayinka">Synapse</a> · <a href="https://github.com/Ayinkx/Task-1-Lawal-Olayinka">Forma</a> — DecodeLabs full-stack projects (library API, task API, editorial frontend).</li>
       </ul>
     </td>
   </tr>
