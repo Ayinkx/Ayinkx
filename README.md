@@ -1,21 +1,23 @@
 <!-- HEADER BANNER -->
 <div align="center">
   <a href="https://github.com/Ayinkx">
-    <img src="https://komarev.com/ghpvc/?username=Ayinkx&label=Profile%20Views&color=0E75B6&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Ayinkx&label=Profile%20Views&color=E0A46A&style=flat" alt="Profile Views">
   </a>
   <a href="https://github.com/Ayinkx?tab=followers">
     <img src="https://img.shields.io/github/followers/Ayinkx?label=Followers&style=flat&logo=github" alt="GitHub Followers">
   </a>
 </div>
 <div align="center">
-  <img src="./profile/header.svg" width="100%" alt="Lawal Olayinka Awal (Ayinkx) — Python Backend Developer, Open Source Builder, Musician and Producer"/>
+  <img src="./profile/header-bg.jpg" width="100%" alt="Lawal Olayinka Awal (Ayinkx), Python Backend Developer, Open Source Builder, Musician and Producer"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=Python+Backend+Developer+%7C+Open+Source+Builder;Building+production+APIs+and+developer+tools;Stellar+%2F+Soroban+open+source;Also+a+musician+and+producer" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=E0A46A&center=true&vCenter=true&width=680&lines=Python+Backend+Developer+%7C+Open+Source+Builder;Building+production+APIs+and+developer+tools;Stellar+%2F+Soroban+open+source;Also+a+musician+and+producer" alt="Typing animation"/>
 </div>
 
 ---
 # 👨‍💻 About Me
+
+<img src="./profile/section-band.jpg" width="100%" alt=""/>
 
 ## Lawal Olayinka Awal (Ayinkx)
 
@@ -72,6 +74,8 @@ I'm **Lawal Olayinka Awal**, known online as **Ayinkx**. I build production APIs
 
 ---
 ## 🚀 Featured Projects
+
+<img src="./profile/section-band.jpg" width="100%" alt=""/>
 
 <table>
   <tr>
@@ -137,6 +141,8 @@ I'm **Lawal Olayinka Awal**, known online as **Ayinkx**. I build production APIs
 
 ## 🧰 Tech Stack
 
+<img src="./profile/section-band.jpg" width="100%" alt=""/>
+
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -176,6 +182,8 @@ I'm **Lawal Olayinka Awal**, known online as **Ayinkx**. I build production APIs
 
 ## 📊 GitHub Stats
 
+<img src="./profile/section-band.jpg" width="100%" alt=""/>
+
 <div align="center">
   <img width="92%" src="./profile/github-stats.svg" alt="GitHub stats: total contributions, current and longest streak, commits by hour, top languages by repository and by commit"/>
 </div>
@@ -184,6 +192,8 @@ I'm **Lawal Olayinka Awal**, known online as **Ayinkx**. I build production APIs
 
 ## 💻 Spent My Time
 
+<img src="./profile/section-band.jpg" width="100%" alt=""/>
+
 <div align="center">
   <img width="96%" src="./profile/spent-my-time.svg" alt="Animated code editor cycling through backend, data and Soroban snippets next to a daily contribution heatmap and project-area split"/>
 </div>
@@ -191,6 +201,8 @@ I'm **Lawal Olayinka Awal**, known online as **Ayinkx**. I build production APIs
 ---
 
 ## 📈 Contribution Activity
+
+<img src="./profile/section-band.jpg" width="100%" alt=""/>
 
 <div align="center">
   <img width="92%" src="./profile/activity-graph.svg" alt="Contribution graph"/>
@@ -207,6 +219,8 @@ I'm **Lawal Olayinka Awal**, known online as **Ayinkx**. I build production APIs
 ---
 
 ## 🌍 Open Source
+
+<img src="./profile/section-band.jpg" width="100%" alt=""/>
 
 <table>
   <tr>
@@ -238,6 +252,8 @@ I'm **Lawal Olayinka Awal**, known online as **Ayinkx**. I build production APIs
 ---
 
 ## Currently Exploring
+
+<img src="./profile/section-band.jpg" width="100%" alt=""/>
 <p align="center">
 
 * 🧠 Backend Architecture
@@ -251,6 +267,8 @@ I'm **Lawal Olayinka Awal**, known online as **Ayinkx**. I build production APIs
 ---
 
 # ⭐ Support
+
+<img src="./profile/section-band.jpg" width="100%" alt=""/>
 
 **If you find my repositories useful, consider giving them a ⭐.**
 
@@ -267,6 +285,8 @@ Your feedback, suggestions, and contributions are welcome.
 ---
 
 ## What I'm Looking For
+
+<img src="./profile/section-band.jpg" width="100%" alt=""/>
 
 I'm actively looking for **Backend Engineering**, **Python** and **API Development** opportunities where I can contribute to real-world systems, learn from experienced engineers, and build scalable products.
 
