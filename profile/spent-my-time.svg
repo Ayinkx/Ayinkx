@@ -309,8 +309,8 @@
 <rect class="cell" x="1480" y="486" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.38" style="animation-delay:11.04s"/>
 <rect class="cell" x="1514" y="282" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.38" style="animation-delay:11.52s"/>
 <rect class="cell" x="1514" y="316" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.38" style="animation-delay:11.52s"/>
-<rect class="cell" x="1514" y="350" width="28" height="28" rx="6" fill="#00F7FF" fill-opacity="0.38" style="animation-delay:11.52s"/>
-<rect x="1514" y="384" width="28" height="28" rx="6" fill="#17213A"/>
+<rect class="cell" x="1514" y="350" width="28" height="28" rx="6" fill="#0E75B6" fill-opacity="0.38" style="animation-delay:11.52s"/>
+<rect class="cell" x="1514" y="384" width="28" height="28" rx="6" fill="#0E75B6" fill-opacity="0.6" style="animation-delay:11.52s"/>
 <rect x="1514" y="418" width="28" height="28" rx="6" fill="#17213A"/>
 <rect x="1514" y="452" width="28" height="28" rx="6" fill="#17213A"/>
 <rect x="1514" y="486" width="28" height="28" rx="6" fill="#17213A"/>
@@ -319,10 +319,10 @@
 <text class="sans" x="620" y="556" font-size="28" font-weight="600" fill="#E8EEF9">Commits by project area</text>
 <rect x="620" y="574" width="924" height="30" rx="15" fill="#17213A"/>
 <g clip-path="url(#barclip)">
-<rect x="620.0" y="574" width="0" height="30" fill="#00F7FF"><animate attributeName="width" values="0;0;905.5;905.5" keyTimes="0;0.0333;0.1000;1" dur="12.0s" repeatCount="indefinite"/></rect>
-<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0750;0.0950;0.988;0.994;1" dur="12.0s" repeatCount="indefinite"/><text class="sans" x="620.0" y="644" text-anchor="start" font-size="23" fill="#8B94B3">APIs <tspan font-weight="700" fill="#00F7FF">98%</tspan></text></g>
-<rect x="1525.5" y="574" width="0" height="30" fill="#0E75B6"><animate attributeName="width" values="0;0;18.5;18.5" keyTimes="0;0.0917;0.1584;1" dur="12.0s" repeatCount="indefinite"/></rect>
-<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1334;0.1534;0.988;0.994;1" dur="12.0s" repeatCount="indefinite"/><text class="sans" x="1544.0" y="644" text-anchor="end" font-size="23" fill="#8B94B3">Data <tspan font-weight="700" fill="#0E75B6">2%</tspan></text></g>
+<rect x="620.0" y="574" width="0" height="30" fill="#00F7FF"><animate attributeName="width" values="0;0;757.7;757.7" keyTimes="0;0.0333;0.1000;1" dur="12.0s" repeatCount="indefinite"/></rect>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0750;0.0950;0.988;0.994;1" dur="12.0s" repeatCount="indefinite"/><text class="sans" x="620.0" y="644" text-anchor="start" font-size="23" fill="#8B94B3">APIs <tspan font-weight="700" fill="#00F7FF">82%</tspan></text></g>
+<rect x="1377.7" y="574" width="0" height="30" fill="#0E75B6"><animate attributeName="width" values="0;0;166.3;166.3" keyTimes="0;0.0917;0.1584;1" dur="12.0s" repeatCount="indefinite"/></rect>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1334;0.1534;0.988;0.994;1" dur="12.0s" repeatCount="indefinite"/><text class="sans" x="1377.7" y="644" text-anchor="start" font-size="23" fill="#8B94B3">Data <tspan font-weight="700" fill="#0E75B6">18%</tspan></text></g>
 <rect x="1544.0" y="574" width="0" height="30" fill="#7C3AED"><animate attributeName="width" values="0;0;0.0;0.0" keyTimes="0;0.1501;0.2168;1" dur="12.0s" repeatCount="indefinite"/></rect>
 </g>
 <rect x="56" y="688" width="1488" height="4" rx="2" fill="#1B2846"/>
