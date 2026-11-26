@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-labelledby="t d">
-<title id="t">GitHub stats for Ayinkx: 2773 contributions, current streak 39 days, longest streak 39 days.</title>
+<title id="t">GitHub stats for Ayinkx: 2775 contributions, current streak 39 days, longest streak 39 days.</title>
 <desc id="d">Total contributions, current and longest streak, commits by hour, and top languages by repository and by commit.</desc>
 <style>
 text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,system-ui,-apple-system,Roboto,'Helvetica Neue',Arial,sans-serif;font-variant-numeric:tabular-nums}
@@ -9,7 +9,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 @keyframes c1_0{0%,3.571%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}15.714%,100%{transform:translateY(-1209.6px)}}
 @keyframes c1_1{0%,4.428%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.571%,100%{transform:translateY(-1713.6px)}}
 @keyframes c1_2{0%,5.285%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}17.428%,100%{transform:translateY(-1713.6px)}}
-@keyframes c1_3{0%,6.142%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}18.285%,100%{transform:translateY(-1310.4px)}}
+@keyframes c1_3{0%,6.142%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}18.285%,100%{transform:translateY(-1512.0px)}}
 @keyframes ring{0%,4.643%{stroke-dashoffset:389.56;animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.786%,100%{stroke-dashoffset:237.63}}
 @keyframes orbit{0%,17.143%{opacity:0;animation-timing-function:ease}20.0%,100%{opacity:1}}
 @keyframes c6_0{0%,3.571%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}15.714%,100%{transform:translateY(-837.2px)}}
@@ -47,8 +47,8 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 @keyframes d0_3{0%,20.743%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}23.600%,100%{stroke-dasharray:5.55 427.26}}
 @keyframes d0_4{0%,21.943%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}24.800%,100%{stroke-dasharray:1.27 427.26}}
 @keyframes d0_c{0%,17.143%{opacity:0;animation-timing-function:ease}20.0%,100%{opacity:1}}
-@keyframes d1_0{0%,17.143%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}20.000%,100%{stroke-dasharray:347.35 427.26}}
-@keyframes d1_1{0%,18.343%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}21.200%,100%{stroke-dasharray:65.36 427.26}}
+@keyframes d1_0{0%,17.143%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}20.000%,100%{stroke-dasharray:343.08 427.26}}
+@keyframes d1_1{0%,18.343%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}21.200%,100%{stroke-dasharray:73.91 427.26}}
 @keyframes d1_2{0%,19.543%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}22.400%,100%{stroke-dasharray:5.55 427.26}}
 @keyframes d1_c{0%,17.143%{opacity:0;animation-timing-function:ease}20.0%,100%{opacity:1}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}.dot{display:none}}
@@ -147,7 +147,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="180.5" y="2032.4" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">8</text>
 <text x="180.5" y="2133.2" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">9</text>
 </g>
-<g style="animation:c1_3 14.0s infinite;transform:translateY(-1310.4px)">
+<g style="animation:c1_3 14.0s infinite;transform:translateY(-1512.0px)">
 <text x="225.5" y="218.0" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">0</text>
 <text x="225.5" y="318.8" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">1</text>
 <text x="225.5" y="419.6" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">2</text>
@@ -297,7 +297,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <rect class="b" x="369.5" y="469.4" width="26" height="2.6" rx="5" fill="url(#bar)" style="animation:bar6 14.0s infinite"/>
 <rect class="b" x="412.4" y="469.4" width="26" height="2.6" rx="5" fill="url(#bar)" style="animation:bar7 14.0s infinite"/>
 <rect class="b" x="455.2" y="451.2" width="26" height="20.8" rx="5" fill="url(#bar)" style="animation:bar8 14.0s infinite"/>
-<rect class="b" x="498.1" y="461.6" width="26" height="10.4" rx="5" fill="url(#bar)" style="animation:bar9 14.0s infinite"/>
+<rect class="b" x="498.1" y="456.4" width="26" height="15.6" rx="5" fill="url(#bar)" style="animation:bar9 14.0s infinite"/>
 <rect class="b" x="540.9" y="456.4" width="26" height="15.6" rx="5" fill="url(#bar)" style="animation:bar10 14.0s infinite"/>
 <rect class="b" x="583.8" y="469.4" width="26" height="2.6" rx="5" fill="url(#bar)" style="animation:bar11 14.0s infinite"/>
 <rect class="b" x="626.6" y="469.4" width="26" height="2.6" rx="5" fill="url(#bar)" style="animation:bar12 14.0s infinite"/>
@@ -350,17 +350,17 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="638" y="566" font-size="17" font-weight="700" fill="#E8ECF8">Top languages by commit</text>
 <circle cx="644" cy="611" r="5" fill="#0E75B6"/>
 <text x="662" y="616" font-size="14" fill="#E8ECF8">Python</text>
-<text x="872" y="616" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">82%</text>
+<text x="872" y="616" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">81%</text>
 <circle cx="644" cy="642" r="5" fill="#00F7FF"/>
 <text x="662" y="647" font-size="14" fill="#E8ECF8">TypeScript</text>
-<text x="872" y="647" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">16%</text>
+<text x="872" y="647" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">18%</text>
 <circle cx="644" cy="673" r="5" fill="#7C3AED"/>
 <text x="662" y="678" font-size="14" fill="#E8ECF8">HTML</text>
 <text x="872" y="678" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">2%</text>
 <circle cx="1020" cy="668" r="68" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="26"/>
-<circle cx="1020" cy="668" r="68" fill="none" stroke="#0E75B6" stroke-width="26" stroke-dasharray="347.35 427.26" stroke-dashoffset="-1.50" transform="rotate(-90 1020 668)" style="animation:d1_0 14.0s infinite"/>
-<circle cx="1020" cy="668" r="68" fill="none" stroke="#00F7FF" stroke-width="26" stroke-dasharray="65.36 427.26" stroke-dashoffset="-351.85" transform="rotate(-90 1020 668)" style="animation:d1_1 14.0s infinite"/>
-<circle cx="1020" cy="668" r="68" fill="none" stroke="#7C3AED" stroke-width="26" stroke-dasharray="5.55 427.26" stroke-dashoffset="-420.21" transform="rotate(-90 1020 668)" style="animation:d1_2 14.0s infinite"/>
-<g style="animation:d1_c 14.0s infinite"><text x="1020" y="672" text-anchor="middle" font-size="24" font-weight="800" fill="url(#numfill)">82%</text><text x="1020" y="690" text-anchor="middle" font-size="12" fill="#8B94B3">Python</text></g>
+<circle cx="1020" cy="668" r="68" fill="none" stroke="#0E75B6" stroke-width="26" stroke-dasharray="343.08 427.26" stroke-dashoffset="-1.50" transform="rotate(-90 1020 668)" style="animation:d1_0 14.0s infinite"/>
+<circle cx="1020" cy="668" r="68" fill="none" stroke="#00F7FF" stroke-width="26" stroke-dasharray="73.91 427.26" stroke-dashoffset="-347.58" transform="rotate(-90 1020 668)" style="animation:d1_1 14.0s infinite"/>
+<circle cx="1020" cy="668" r="68" fill="none" stroke="#7C3AED" stroke-width="26" stroke-dasharray="5.55 427.26" stroke-dashoffset="-424.49" transform="rotate(-90 1020 668)" style="animation:d1_2 14.0s infinite"/>
+<g style="animation:d1_c 14.0s infinite"><text x="1020" y="672" text-anchor="middle" font-size="24" font-weight="800" fill="url(#numfill)">81%</text><text x="1020" y="690" text-anchor="middle" font-size="12" fill="#8B94B3">Python</text></g>
 </g>
 </svg>
