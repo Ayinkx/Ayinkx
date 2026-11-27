@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-labelledby="t d">
-<title id="t">GitHub stats for Ayinkx: 2776 contributions, current streak 39 days, longest streak 39 days.</title>
+<title id="t">GitHub stats for Ayinkx: 2786 contributions, current streak 40 days, longest streak 40 days.</title>
 <desc id="d">Total contributions, current and longest streak, commits by hour, and top languages by repository and by commit.</desc>
 <style>
 text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,system-ui,-apple-system,Roboto,'Helvetica Neue',Arial,sans-serif;font-variant-numeric:tabular-nums}
@@ -8,14 +8,14 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 @keyframes master{0%{opacity:0}3%{opacity:1}93%{opacity:1}97%{opacity:0}100%{opacity:0}}
 @keyframes c1_0{0%,3.571%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}15.714%,100%{transform:translateY(-1209.6px)}}
 @keyframes c1_1{0%,4.428%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.571%,100%{transform:translateY(-1713.6px)}}
-@keyframes c1_2{0%,5.285%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}17.428%,100%{transform:translateY(-1713.6px)}}
+@keyframes c1_2{0%,5.285%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}17.428%,100%{transform:translateY(-1814.4px)}}
 @keyframes c1_3{0%,6.142%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}18.285%,100%{transform:translateY(-1612.8px)}}
-@keyframes ring{0%,4.643%{stroke-dashoffset:389.56;animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.786%,100%{stroke-dashoffset:237.63}}
+@keyframes ring{0%,4.643%{stroke-dashoffset:389.56;animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.786%,100%{stroke-dashoffset:233.74}}
 @keyframes orbit{0%,17.143%{opacity:0;animation-timing-function:ease}20.0%,100%{opacity:1}}
-@keyframes c6_0{0%,3.571%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}15.714%,100%{transform:translateY(-837.2px)}}
-@keyframes c6_1{0%,4.428%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.571%,100%{transform:translateY(-1223.6px)}}
-@keyframes c8_0{0%,3.571%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}15.714%,100%{transform:translateY(-1310.4px)}}
-@keyframes c8_1{0%,4.428%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.571%,100%{transform:translateY(-1915.2px)}}
+@keyframes c6_0{0%,3.571%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}15.714%,100%{transform:translateY(-901.6px)}}
+@keyframes c6_1{0%,4.428%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.571%,100%{transform:translateY(-644.0px)}}
+@keyframes c8_0{0%,3.571%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}15.714%,100%{transform:translateY(-1411.2px)}}
+@keyframes c8_1{0%,4.428%{transform:translateY(0px);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.571%,100%{transform:translateY(-1008.0px)}}
 @keyframes bar0{0%,10.714%{transform:scaleY(0);animation-timing-function:cubic-bezier(.2,.8,.2,1)}15.714%,100%{transform:scaleY(1)}}
 @keyframes bar1{0%,11.000%{transform:scaleY(0);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.000%,100%{transform:scaleY(1)}}
 @keyframes bar2{0%,11.286%{transform:scaleY(0);animation-timing-function:cubic-bezier(.2,.8,.2,1)}16.286%,100%{transform:scaleY(1)}}
@@ -47,8 +47,8 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 @keyframes d0_3{0%,20.743%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}23.600%,100%{stroke-dasharray:5.55 427.26}}
 @keyframes d0_4{0%,21.943%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}24.800%,100%{stroke-dasharray:1.27 427.26}}
 @keyframes d0_c{0%,17.143%{opacity:0;animation-timing-function:ease}20.0%,100%{opacity:1}}
-@keyframes d1_0{0%,17.143%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}20.000%,100%{stroke-dasharray:334.54 427.26}}
-@keyframes d1_1{0%,18.343%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}21.200%,100%{stroke-dasharray:78.18 427.26}}
+@keyframes d1_0{0%,17.143%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}20.000%,100%{stroke-dasharray:330.26 427.26}}
+@keyframes d1_1{0%,18.343%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}21.200%,100%{stroke-dasharray:82.45 427.26}}
 @keyframes d1_2{0%,19.543%{stroke-dasharray:0 427.26;animation-timing-function:cubic-bezier(.2,.8,.2,1)}22.400%,100%{stroke-dasharray:5.55 427.26}}
 @keyframes d1_c{0%,17.143%{opacity:0;animation-timing-function:ease}20.0%,100%{opacity:1}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}.dot{display:none}}
@@ -125,7 +125,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="135.5" y="2032.4" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">8</text>
 <text x="135.5" y="2133.2" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">9</text>
 </g>
-<g style="animation:c1_2 14.0s infinite;transform:translateY(-1713.6px)">
+<g style="animation:c1_2 14.0s infinite;transform:translateY(-1814.4px)">
 <text x="180.5" y="218.0" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">0</text>
 <text x="180.5" y="318.8" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">1</text>
 <text x="180.5" y="419.6" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">2</text>
@@ -173,11 +173,11 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="68" y="260" font-size="13" font-weight="600" fill="#00F7FF">Nov 23, 2025 to present</text>
 <rect x="360" y="96" width="480" height="190" rx="20" fill="#FFFFFF" fill-opacity="0.04" stroke="url(#tileEdge)" stroke-width="1.4"/>
 <circle cx="472" cy="191" r="62" fill="none" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="10"/>
-<circle cx="472" cy="191" r="62" fill="none" stroke="url(#ring)" stroke-width="10" stroke-linecap="round" stroke-dasharray="389.56" stroke-dashoffset="237.63" transform="rotate(-90 472 191)" filter="url(#glow)" style="animation:ring 14.0s infinite"/>
+<circle cx="472" cy="191" r="62" fill="none" stroke="url(#ring)" stroke-width="10" stroke-linecap="round" stroke-dasharray="389.56" stroke-dashoffset="233.74" transform="rotate(-90 472 191)" filter="url(#glow)" style="animation:ring 14.0s infinite"/>
 <circle class="dot" r="3.5" fill="#FFFFFF" style="animation:orbit 14.0s infinite;opacity:1"><animateMotion dur="6s" repeatCount="indefinite" path="M 472,129 A 62,62 0 1,1 471.99,129"/></circle>
 <clipPath id="c6"><rect x="439.0" y="167.4" width="66.0" height="51.5"/></clipPath>
 <g clip-path="url(#c6)">
-<g style="animation:c6_0 14.0s infinite;transform:translateY(-837.2px)">
+<g style="animation:c6_0 14.0s infinite;transform:translateY(-901.6px)">
 <text x="457.5" y="207.0" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">0</text>
 <text x="457.5" y="271.4" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">1</text>
 <text x="457.5" y="335.8" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">2</text>
@@ -199,7 +199,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="457.5" y="1366.2" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">8</text>
 <text x="457.5" y="1430.6" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">9</text>
 </g>
-<g style="animation:c6_1 14.0s infinite;transform:translateY(-1223.6px)">
+<g style="animation:c6_1 14.0s infinite;transform:translateY(-644.0px)">
 <text x="486.5" y="207.0" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">0</text>
 <text x="486.5" y="271.4" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">1</text>
 <text x="486.5" y="335.8" text-anchor="middle" font-size="46" font-weight="800" fill="url(#numfill)">2</text>
@@ -224,13 +224,13 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 </g>
 <text x="472" y="229" text-anchor="middle" font-size="12" font-weight="600" fill="#8B94B3">days</text>
 <text x="574" y="174" font-size="19" font-weight="700" fill="#E8ECF8">Current streak</text>
-<text x="574" y="200" font-size="14" fill="#00F7FF" font-weight="600">Oct 19 to Nov 26</text>
+<text x="574" y="200" font-size="14" fill="#00F7FF" font-weight="600">Oct 19 to Nov 27</text>
 <text x="574" y="228" font-size="13" fill="#8B94B3">Matches the longest streak</text>
 <rect x="860" y="96" width="300" height="190" rx="20" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.09"/>
 <text x="888" y="138" font-size="15" font-weight="600" fill="#8B94B3">Longest streak</text>
 <clipPath id="c8"><rect x="884.0" y="156.1" width="98.0" height="80.6"/></clipPath>
 <g clip-path="url(#c8)">
-<g style="animation:c8_0 14.0s infinite;transform:translateY(-1310.4px)">
+<g style="animation:c8_0 14.0s infinite;transform:translateY(-1411.2px)">
 <text x="910.5" y="218.0" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">0</text>
 <text x="910.5" y="318.8" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">1</text>
 <text x="910.5" y="419.6" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">2</text>
@@ -252,7 +252,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="910.5" y="2032.4" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">8</text>
 <text x="910.5" y="2133.2" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">9</text>
 </g>
-<g style="animation:c8_1 14.0s infinite;transform:translateY(-1915.2px)">
+<g style="animation:c8_1 14.0s infinite;transform:translateY(-1008.0px)">
 <text x="955.5" y="218.0" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">0</text>
 <text x="955.5" y="318.8" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">1</text>
 <text x="955.5" y="419.6" text-anchor="middle" font-size="72" font-weight="800" fill="url(#numfill)">2</text>
@@ -276,7 +276,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 </g>
 </g>
 <text x="988" y="218" font-size="20" font-weight="600" fill="#8B94B3">days</text>
-<text x="888" y="260" font-size="13" font-weight="600" fill="#00F7FF">Oct 19 to Nov 26</text>
+<text x="888" y="260" font-size="13" font-weight="600" fill="#00F7FF">Oct 19 to Nov 27</text>
 <rect x="40" y="306" width="1120" height="200" rx="20" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.09"/>
 <text x="68" y="344" font-size="17" font-weight="700" fill="#E8ECF8">Commits by hour</text>
 <text x="1132" y="344" text-anchor="end" font-size="13" fill="#8B94B3">UTC</text>
@@ -297,7 +297,7 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <rect class="b" x="369.5" y="469.4" width="26" height="2.6" rx="5" fill="url(#bar)" style="animation:bar6 14.0s infinite"/>
 <rect class="b" x="412.4" y="469.4" width="26" height="2.6" rx="5" fill="url(#bar)" style="animation:bar7 14.0s infinite"/>
 <rect class="b" x="455.2" y="451.2" width="26" height="20.8" rx="5" fill="url(#bar)" style="animation:bar8 14.0s infinite"/>
-<rect class="b" x="498.1" y="456.4" width="26" height="15.6" rx="5" fill="url(#bar)" style="animation:bar9 14.0s infinite"/>
+<rect class="b" x="498.1" y="451.2" width="26" height="20.8" rx="5" fill="url(#bar)" style="animation:bar9 14.0s infinite"/>
 <rect class="b" x="540.9" y="456.4" width="26" height="15.6" rx="5" fill="url(#bar)" style="animation:bar10 14.0s infinite"/>
 <rect class="b" x="583.8" y="469.4" width="26" height="2.6" rx="5" fill="url(#bar)" style="animation:bar11 14.0s infinite"/>
 <rect class="b" x="626.6" y="469.4" width="26" height="2.6" rx="5" fill="url(#bar)" style="animation:bar12 14.0s infinite"/>
@@ -350,17 +350,17 @@ text{font-family:'Segoe UI Variable Display','Segoe UI','SF Pro Display',Inter,s
 <text x="638" y="566" font-size="17" font-weight="700" fill="#E8ECF8">Top languages by commit</text>
 <circle cx="644" cy="611" r="5" fill="#0E75B6"/>
 <text x="662" y="616" font-size="14" fill="#E8ECF8">Python</text>
-<text x="872" y="616" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">79%</text>
+<text x="872" y="616" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">78%</text>
 <circle cx="644" cy="642" r="5" fill="#00F7FF"/>
 <text x="662" y="647" font-size="14" fill="#E8ECF8">TypeScript</text>
-<text x="872" y="647" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">19%</text>
+<text x="872" y="647" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">20%</text>
 <circle cx="644" cy="673" r="5" fill="#7C3AED"/>
 <text x="662" y="678" font-size="14" fill="#E8ECF8">HTML</text>
 <text x="872" y="678" text-anchor="end" font-size="14" font-weight="600" fill="#8B94B3">2%</text>
 <circle cx="1020" cy="668" r="68" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="26"/>
-<circle cx="1020" cy="668" r="68" fill="none" stroke="#0E75B6" stroke-width="26" stroke-dasharray="334.54 427.26" stroke-dashoffset="-1.50" transform="rotate(-90 1020 668)" style="animation:d1_0 14.0s infinite"/>
-<circle cx="1020" cy="668" r="68" fill="none" stroke="#00F7FF" stroke-width="26" stroke-dasharray="78.18 427.26" stroke-dashoffset="-339.04" transform="rotate(-90 1020 668)" style="animation:d1_1 14.0s infinite"/>
+<circle cx="1020" cy="668" r="68" fill="none" stroke="#0E75B6" stroke-width="26" stroke-dasharray="330.26 427.26" stroke-dashoffset="-1.50" transform="rotate(-90 1020 668)" style="animation:d1_0 14.0s infinite"/>
+<circle cx="1020" cy="668" r="68" fill="none" stroke="#00F7FF" stroke-width="26" stroke-dasharray="82.45 427.26" stroke-dashoffset="-334.76" transform="rotate(-90 1020 668)" style="animation:d1_1 14.0s infinite"/>
 <circle cx="1020" cy="668" r="68" fill="none" stroke="#7C3AED" stroke-width="26" stroke-dasharray="5.55 427.26" stroke-dashoffset="-420.21" transform="rotate(-90 1020 668)" style="animation:d1_2 14.0s infinite"/>
-<g style="animation:d1_c 14.0s infinite"><text x="1020" y="672" text-anchor="middle" font-size="24" font-weight="800" fill="url(#numfill)">79%</text><text x="1020" y="690" text-anchor="middle" font-size="12" fill="#8B94B3">Python</text></g>
+<g style="animation:d1_c 14.0s infinite"><text x="1020" y="672" text-anchor="middle" font-size="24" font-weight="800" fill="url(#numfill)">78%</text><text x="1020" y="690" text-anchor="middle" font-size="12" fill="#8B94B3">Python</text></g>
 </g>
 </svg>
